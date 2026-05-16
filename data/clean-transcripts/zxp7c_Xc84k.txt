@@ -1,0 +1,421 @@
+# 20100818-zxp7c_Xc84k-Mark Hendrickson - Tungle Manifesto
+
+Kind: captions
+Language: en
+when I think about scheduling it's a
+very certain types type of use case it's
+it's I want to think of someone that I
+want to interact with in real life and I
+need I have a high priority to
+coordinate with them to make sure it
+happens whereas plancast is much more
+about Discovery and Serendipity um you
+don't think of I'm going to use Plan
+cast to make sure that I meet up with a
+certain person um at a certain time for
+a certain purpose it's more of a in
+general I care about these people and
+what they're doing because I may want to
+join them for things and I will use play
+cast on an ongoing basis to to
+serendipitously find that when that's
+possible um and so I don't really view
+it as scheduling so if you post
+something like South by Southwest uh
+there are hundreds of hundreds of other
+people going to that um and so it's
+going to show up for more people than a
+casual barbecue with only four people
+going um so just because of that Dynamic
+um you tend to see the stuff that's sort
+of larger in scale predominate um but
+but the types of original content that's
+entered into the system is on all levels
+so you have things that are posted
+people's personal plans that they have
+no one going with them at all you know
+they're taking a trip um and they want
+to just want to let friends know that
+they're going to be out of town uh they
+want to tell someone that they're going
+to be in New York and then someone might
+call them up be like hey I saw you on
+plancast you're coming to New York let's
+hang out sure um and then on the other
+uh end of the spectrum you have things
+like conferences and these big things um
+so really we're not we're not attempting
+to build a tool that addresses one or
+the other together in particular um we
+definitely love seeing a allot of that
+that activity around the big events and
+we want to um make that happen as much
+as we can but it's not like we're
+catering towards that or the the small
+small plants well so we want to be
+General use we want everyone to have an
+interest in using Plan cast whether
+they're into a a certain type of event
+or or another like if they're into Tech
+or they're into music or they're into
+sports we want it to be for anything I
+think when we started off actually we
+thought that there'd be more use around
+the small stuff like the really
+individual stuff like I'm going to put
+up that I'm going to be getting drinks
+on a Friday night um and I think because
+of that Dynamic that I explained second
+ago about the bigger events that has it
+surprised us that the bigger stuff has
+been what's what we've seen the most of
+um but our users have basically told us
+that they they get a lot of value out of
+that and so we don't want to skew it at
+all
+um but yeah we we don't we don't think
+too much about like how do we uh you
+know sort of force upon people how they
+should it we just sort of see where
+where people find use around it and then
+we try to build it out for them so it
+works
+better um let's talk a couple minutes
+about about privacy issues so for
+example we're heading out to the tech
+crunch on yeah so one of the first
+things that I do particularly because I
+approach things more from a bb or sales
+position as I head out to plast and
+check who else is attending that may be
+of interest to our business I want to
+build
+relationships um but in some cases that
+you know kind of uh I don't want to say
+an infringes on privacy because
+everybody's opted in obviously but
+there's some privacy issues there you
+know not to bring up kind of the most
+graphic but if somebody were looking at
+my plancast profile they would know that
+my wife and kids are home alone this
+year y um are you dealing with any of
+those privacy issues is something that
+you're seeing a ground slow of is your
+community talking to about that um we
+have so when we started off everything
+was public on Plan cast and and before
+we introduced any kind of privacy
+settings uh we definitely had a lot more
+feedback from our users um from the
+segment and it was a minority segment
+that that wanted to have a greater
+control over just who gets their plans
+just s of that basic I want my count to
+be only accessible by the people that I
+pre-approve um since then since we
+introduced that functionality we don't
+actually hear a lot from our users about
+hey I wish um you know things were just
+generally more
+there's feature requests around you know
+certain plans when people post them they
+want those to be private um but those
+sort of activities just aren't on the
+site yet because people opt into not
+sharing that stuff yet so it's not as
+though we feel as though our users are
+putting stuff out there right now that
+they're actively concerned will come
+back and hurt them um we surprised by on
+a percentage basis the number of people
+who either decided to keep their plans
+open or decide to lock them down yeah I
+mean there's a it's a very small
+percentage of people who have locked
+down their account very small percentage
+I mean I can tell you on tungle side
+when we went through this do you want to
+index or not do you want your profile to
+be open to the world we were looking at
+about 85 to 90% that's
+young yeah yeah I I think there's a lot
+to be said for people's understanding
+that they sort of live two lives there's
+the life stuff that they're going to
+share publicly and there's stuff that
+they're going to keep private and I
+think if you frame Your Service as a by
+default public sort of thing um people
+are going to get that and they're going
+to interact with it as such and they're
+not going to
+complain um bitterly about not being
+able to share certain private things
+they're more like likely just a request
+functionality that will allow them to do
+that so it's not really a problem per se
+it's just if if you want to somehow
+capture that sort of more private
+activity you have to think of ways to to
+allow for it um so we don't really view
+it as a problem we just view it as a a
+sort of uh strategic data issue how do
+we you know what's the pros and cons of
+of giving more granular controls um and
+we don't want to make it more
+complicated than it has to be um which
+is partly why we kept it open to in
+public to start with this whole Space
+this sort of uh Geo time social
+networking type space you know where are
+people going where are they right now
+for what uh we're at very much the early
+stages of it um and so we don't really
+view ourselves as actively competitive
+with one any one other player um
+everyone's sort of doing their own piece
+on it and um there are synergies lots of
+different ideas in terms of how
+synergies can come about um you know you
+got the checking guys like Forest square
+and goala um which is all about where
+you right now and and uh tracking sort
+of your footprint through life um
+there's us that's sort of the Forward
+Thinking uh you know discovering things
+that people are doing before it actually
+happens uh there's the calendar guys
+that have a lot of data that we kind of
+want but it's it's not in the right kind
+of context um and also there's a lot of
+data and calendars that people don't
+want to share publicly so it's not a one
+to one about that context for a
+second um well so people use calendars
+because they want to remember things
+primarily um and they want to think if
+they want to add something to their
+their schedule they got to make sure
+that they're not going to have a
+conflict um and when they want to you
+know uh just sort of recall uh the sort
+of things that they have done in the
+past they can sort of look it up um it's
+not something they go to to discover
+something new it's it's something to go
+to to remember something that was
+already there all right so let me give
+you some new context just in terms of
+here is is a is a bridge that I see so
+one of the features that we introduce
+recently is this idea of making an event
+public right so if you were to go to my
+tongle me page today you would see this
+week at the top that I'm in San
+Francisco couple reasons for that the
+first is if you're coming to my tongle
+me page to book a meeting with me no
+sense in Booking with me in Montreal
+Toronto because I'm on
+the um the second is that I can kind of
+push that out to my social scen I guess
+what I would say we don't offer more
+granular detail than that reference you
+guys um but that's kind of there's a
+certain amount of collaboration that can
+take place there right so when you're
+saying it's it's kind of a backward
+looking you know I want to remember
+where I was or what I was doing as a
+reference point that's exactly what
+we're talking about when we transition
+manage go
+forward yeah yeah I'm really talking
+about calendars traditionally I think
+calendars can serve a starting point for
+a lot of advanced functionality social
+functionality MH um you know I think
+Google deserves some credit for doing a
+little bit when it comes to
+experimenting with public versus private
+entries and calendars and and trying to
+make that sort of open up your calendar
+to more public consumption um but they
+didn't really take it very far um and so
+it leaves sort of the challenge up to
+people like us to figure out what can we
+do to innovate around how people use
+their calendars um I mean we we often
+call ourselves sort of a social calendar
+um even though we're not looking to
+replace in any way you know Google
+Calendar or your outlook um um it's a
+different sort of experience that we
+want to provide for people but there's
+there's natural tie-ins the calendars
+that you you already
+use well so there's a question that I
+think the the primary question we have
+to ask ourselves is the type of product
+are we building that we're building is
+it um does it have the potential to
+apply to people all over is it a
+mainstream uh type of product if people
+in Middle America in Europe outside the
+valley um were to encounter it uh and to
+start use it would they actually find
+Value out of it or would it be sort of
+just like oh this seems good for Tech
+events but nothing else um I think that
+question to me is just fairly obvious um
+everyone everywhere likes to go do
+things with people so um whether is
+there a cultural barrier there in terms
+of saying you know it's not sometimes
+you get out ahead of the curve right and
+so you definitely you've seen adoption
+of the product without question um but
+the tendency to put out where I'm going
+to be in public is something new to
+people right we see it in our business
+too how prepared are you and a lot of it
+generation right as remove kind of into
+Senior Management SE Su much more
+inclined to publish
+lar yeah do you see that kind of
+cultural to call um I'm not so concerned
+about cultural barriers or generational
+barriers I'm more just concerned about
+the the general adoption curve of new
+technologies so when you release
+something that's new and it's it's not
+something that already has an example so
+I'm not I'm not releasing another
+toaster you know people mainstream
+people don't know what a plan cast is um
+it's going to take time for us to get
+enough adoption in the early adopter
+segments um and then sort of the the
+more uh I guess uh experimental
+mainstream segments uh before sort of a
+normal American normal European will be
+like oh plancast I use that um just
+because people look to others in terms
+of what they want to use and um they
+just require different education levels
+uh so it's it's a matter of just uh
+marketing and um moving up the adoption
+curve for us uh we we don't view it as a
+we're going to exhaust a certain segment
+and then we're not going to have any
+more people to Market to um because like
+I said I think what the the the main
+value we're trying to Pro provide
+applies anywhere unless if you're
+someone who just doesn't like to go out
+and do stuff then it's not for you but
+um there are tons of people in in
+different societies that in different
+parts of society that that do want to do
+that so but the you've also got um you
+know the 800 pound gorilla being
+Facebook is getting people used to the
+concept of sharing right whether it's
+sharing pictures I mean LinkedIn has
+taught people are sharing contacts and
+sharing personal information and so I'm
+certainly sorry to add one of the things
+we were there to talk to them about was
+events right I mean certainly there's
+been enough whisper about an email
+application being built there right
+they've got your contacts got an event
+component a calar program well that's
+said and they're swirling around the
+space is it something that you consider
+is it something that you care about
+sorry D no it's cool yeah I I definitely
+care about it um I I imagine they're
+thinking about all these things they're
+thinking about calendars they're
+thinking about they're aware of us
+they're aware of you guys they're
+thinking about word processors I'm sure
+um you know I think Facebook actually
+tends to look up at Google versus more
+down I mean I'm sure looking they're
+both looking both ways but they're
+trying to think of how do they become
+the next Google um and you know you
+could sort of sit around and sort of
+think okay well Facebook will figure out
+the best way to do all these things but
+I actually think U you know the bigger
+that Facebook gets um even though
+they're still extremely
+Innovative they still have path
+dependency on their their their current
+product people understand them and
+understand using them in a certain way
+um they understand themselves in a
+certain way so you can't really sit
+around and Sort of hope that they create
+the best version of a product that will
+that will serve Us in the ways we're
+discussed
+um so I I put my money on uh you know a
+startup coming up with much more
+innovative solutions here than than a
+Facebook or a Google um they may try to
+emulate it but uh they just don't have
+sort of the the focus or the uh sort of
+the the heart to to Really
+execute um on these sort of problems as
+their primary
+concern yeah I mean they have lots of
+things they have to worry about and so
+um who knows whether you're sort of uh
+in the middle of the road of what
+they're going to drive down or not if
+you are then that's too bad um or it may
+just it may just valid validate your
+Market I mean so Twitter for example was
+uh when when they just start started to
+hit it big uh they're right in the
+sights of Facebook and if anything
+Facebook I think validated what they
+were doing uh didn't kill them
+so if that could happen to any of our
+startups then good for us right it's you
+know we say something we we talk about
+that regularly in our offices we see as
+an example Google releasing new product
+new feuture functions so you know
+increasingly they're encroaching on what
+we're doing at the same time it's just
+validation it educate the market for you
+guys rather ride their and have to
+people will taste what it's like and say
+okay well I got a little bit of this
+from Google because they introduced it
+into my gcal experience but now that
+I've tried it it doesn't quite work the
+way I wanted to oh there's this tungle
+thing I could use it's even better how
+about I use that sure um it's
+interesting I mean I think just several
+years ago people thought of you know why
+would you do X startup idea because
+Google's just going to do it right no
+one really says that these days I think
+because we've seen Google try to go
+outside the core competency several
+times uh and just not be that killer
+sort of force that people feared that it
+would be and so I think the same thing
+applies to you know Facebook it's sort
+like we're at this period of time where
+people think oh well Facebook could do
+it um and like yeah they could but
+doesn't mean they will

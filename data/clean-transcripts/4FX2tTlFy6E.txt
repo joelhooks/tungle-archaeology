@@ -1,0 +1,31 @@
+# 20101101-4FX2tTlFy6E-How to connect Tungle.me to your Google account
+
+Kind: captions
+Language: en
+here's how to sync a Google calendar to
+your tungle
+account first click calendars and
+contacts on the left click add new
+calendar and contact sync source and
+select Google from the
+list type in the email address of the
+account you want to
+sync and here you can choose if you also
+want to import your Google contacts
+which is Handy if you want to access
+your contacts when scheduling
+meetings click
+continue
+and we're brought over to a Google site
+asking us to Grant access click Grant
+access and we go back to
+tungle if you have other Google
+Calendars shared with your main account
+that you've just synced tongle will give
+you the option to connect those as well
+select the ones you want to
+connect and click
+continue and you're
+done you'll now see the events from your
+Google calendar in your
+account

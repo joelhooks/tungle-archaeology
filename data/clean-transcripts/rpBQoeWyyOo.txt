@@ -1,0 +1,50 @@
+# 20100209-rpBQoeWyyOo-Tungle.me web widget
+
+Kind: captions
+Language: en
+hi uh this is Mark uh CEO and founder of
+tungle this one's going to be short uh
+we made a cool release uh last weekend
+and I wanted to talk to you about one
+specific thing that we released which is
+our tangle me widget uh if you remember
+of course most of you have a page like
+this with your Tango me page that allows
+anybody that goes to your URL for
+example mine is toggle
+me.markle me slash mark
+to schedule meetings with me now what
+we've done is we've we've allowed you to
+take this page and bring it wherever you
+want through our Tango me widget so
+think of it like a mini version of your
+Tango me page if you go and you can
+embed this little JavaScript that we've
+got and I'm going to show you where to
+get it it basically puts an icon like
+this wherever you want on your web page
+your blog your social network and so on
+and what you do is you click on it and
+it gives you a mini version of your
+Tango me page you can even see you know
+the different information that you've
+put links to your Twitter feed LinkedIn
+profile and so on as well as your
+different availability
+right so uh this is what it does uh so
+now people from your blog or web page
+can schedule a meeting with you without
+having to register to tungle uh and I
+can start by proposing multiple times
+for the meeting like they could on your
+tungle me page uh so pretty cool stuff
+um to get it you basically log into your
+tongle account you go to the management
+Tab and you'll see there in the extras a
+link for the widget that basically
+describes how to put it on your page so
+check it out
+um we're really
+excited about this capability so uh try
+it out let us know how it works alright
+keep on going

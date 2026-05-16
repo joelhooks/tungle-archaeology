@@ -1,0 +1,417 @@
+# 20100817-XVrROmC447Y-Ed Brill - Tungle Manifesto (Part 1 of 4)
+
+Kind: captions
+Language: en
+okay
+they're not purple not purple these
+so um
+so yeah so you've been involved with
+calendars quite a bit right
+yes and since when since 1993
+okay so when you first started you know
+talk to me about
+what was there what were your challenges
+what was happening in the industry
+everything and so on so 1983 i was in
+i.t
+i wasn't a vendor and i was at a typical
+mid-sized company growing
+and we were using file sharing based
+email
+and we had not had any sort of
+historical legacy
+mainframe systems we were never on profs
+or anything like that
+and we just had grown up this email
+culture and as we were growing as a
+company
+uh you couldn't just go to go down the
+hall and say let's have a meeting
+it had to start getting a formalized
+structure from
+when it was 200 people in one building
+to a thousand people across the campus
+so were people using electronic
+calendars then
+not really there was a lot of filofax
+and you know whatever day timers and the
+like
+and on paper yeah and um
+uh you know email to try to coordinate
+calendars but but that was that was
+pretty much it in that company
+some of the very earliest pdas were just
+starting to come out
+so the hp 95 lx was like one of the
+first
+handheld flip up devices that had
+ccmail built into it some people had
+palm pilots or palms that they they were
+just palms at the time
+and you know we're starting to use that
+but really for the most part
+electronic calendaring wasn't in the
+environment it wasn't
+in the workplace unless you had been in
+a big company that had ibm props
+and a mainframe that was kind of the
+only so those people were used to oh
+yeah well i'll have my calendars just
+now my system that wasn't
+a good calendar but it was their closed
+environment
+we didn't have any of that okay and none
+of the file sharing vendors had any kind
+of
+uh calendaring service as part of their
+email systems there was nothing with
+ccmail there was nothing with microsoft
+mail
+word perfect office eventually added
+calendar but it wasn't
+it wasn't initially there either so the
+industry in the early 90s was just
+starting to recognize calendaring
+lotus acquired a company called threads
+in the uk
+and they made the organizer and so lotus
+had this pim product lotus organizer and
+then they undertook in 93 the
+engineering
+to make lotus organizer a group calendar
+product okay
+and as a ccmail customer with these kind
+of problems in our business
+we were extremely interested in what
+lotus was going to do there
+microsoft also started doing with
+schedule plus
+some added to microsoft mail and
+you know so it sort of got born in the
+distributed environment
+93 time frame so why do you think the
+counter was
+merged with mail i think transport
+was really the main reason everybody
+already got email
+in the organization so it was the only
+system in most companies that touched
+everyone
+and if i could piggyback on that to do
+some other business workflow
+especially something as horizontal as
+calendaring i think that that was
+probably the logic
+and in fact the early versions of lotus
+organizer didn't
+do anything in the mail system your
+invites and all that stuff were
+separate when you launched lotus
+organizer you saw them
+but they were called out of your inbox
+by the organizer program
+essentially as a hack right it would go
+into your inbox and look for
+keywords and pull those over into lotus
+organizer but you did all your
+workflow and calendaring stuff in the
+calendar that it wasn't like
+you were in your inbox and saw an
+invitation okay
+i just want to see if it gets working
+all right
+actually this is good by the way i
+didn't even know that the early versions
+of
+a calendar were actually separated
+from the mail it just used males to
+transport that was all it was and it was
+and also i guess it's a good
+distribution channel right
+you basically say well if i want to get
+calendar in the hands of a lot of people
+at the end of the day
+put it with the mail right well and it
+had a directory already yeah that was
+that
+you know but the individual calendars
+were individual files
+they weren't in any kind of shared
+database they had to go on an h drive on
+the network or whatever
+so but it was a it was it was a it was a
+single file that was my
+org or or2 or whatever and i could
+copy that to my local drive if i was
+working on it at home or on a laptop or
+whatever
+not that everybody had laptops at that
+time either but
+you know not many at all did yeah but it
+was
+very single user-centric and very
+um clutching it just was yeah but
+but it somehow worked okay and then from
+so so then
+what was the next logical step from
+there so then in uh
+kind of the mid 90s is when um the
+client server messaging era sort of
+started to take off with lotus with
+notes before
+and microsoft with exchange right
+and exchange 96 original industries in a
+microsoft mail client
+but then in out they introduced outlook
+in 97
+helping themselves and that was a
+combined mail and calendar client
+and lotus introduced notes 4.5
+with an integrated calendar that we had
+based loosely
+on the features of organizer uh in 1997.
+we also made organizer work on top of
+notes
+what were what were customers saying
+like
+back then like calendaring became a
+a requirement driven by it by i see yeah
+yeah just as a this is another service
+we want to provide
+as part of our enterprise communications
+infrastructure
+now that we see the technology is
+available we want it and we want it in
+this environment
+and a lot of companies that had never
+gone through a file sharing based email
+system
+we're still on mainframes we're on profs
+we're on
+deck all-in-one you know all these other
+sort of prior generation mail systems
+that it had calendaring
+so they were like well if i'm going to
+move to client server it's got to have a
+calendar
+so that was really the impetus for us to
+get that into the product
+uh in the 96.97 time frame
+okay and then so that so that calendar
+that you started to put in there
+um like when did it become
+uh when did the switch happen from
+saying okay it's my calendar
+versus i want to start sharing it with
+other people when the
+and what was the reason people started
+to want to calendar share
+um i think that some corporate cultures
+really drove the idea that i want to i
+want everybody
+to be able to see what my calendar is my
+department i want to be able to choose
+people to know where i'm at
+there were heart the mechanisms weren't
+easy to distribute that information any
+other way
+most of the email systems didn't even
+have an out of the office kind of a
+function at that point not an effective
+one
+so you know putting my calendar online
+was an easy way to tell
+my work group or my department or my
+building or whatever
+where i was and and even the earliest
+versions of
+notes and outlook had some level of
+privacy controls or whatever that i
+could just publish free time or i could
+just publish my calendar or whatever
+and i think that the organizational need
+was just to be able to know where people
+were
+as companies sort of that were
+distributed across multiple sites
+uh started to work together more using
+other
+current generation collaborative tools
+okay
+and and did that need then evolve into
+something else after that or or was it
+really
+i want to know what people in my
+organization are doing
+i think the evolution from there was
+how do i schedule conference rooms how
+do i think about
+really truly doing meetings this way and
+not just
+personal diary info how do i sync that
+to something that's a
+local device of some kind or at least
+have access to it at home
+so the usage patterns did definitely
+change
+from the initial you know sort of our
+4.5 release
+okay to now the the use of calendaring
+has become
+part and parcel of every deployment you
+know for a while there we introduced it
+about half customers said we're not
+going to use that we're just using it as
+an email system
+but we have apps but calendaring now in
+i think pretty much every notes customer
+uses the calendar
+i'm sure that outlook users would say
+exactly the same thing
+if you forward it if you forward to now
+or the present or maybe
+in the future i don't know do you see
+that the calendar
+can exist by itself
+or does it need to be with the email
+system i think the calendar
+a few years ago probably hit an
+inflection point where it was
+distinct from the email there's some
+things like uh
+directory lookup or whatever that it
+needs to sort of rely on the same
+infrastructure
+but in some ways my calendar has its
+extensions now instead of to email to
+uh online meetings right if i'm going to
+have an online meeting i have a single
+click
+link to initiate that and start meeting
+and whatever
+presence and awareness so my instant
+messaging kind of environment
+so i can see if the people i invited to
+this meeting are online right now and if
+they're going to
+show up to the meeting whether they
+accept it or not
+i can have a side chat going i can
+whiteboard with them i can you know i
+could do voice over ip
+so i think it's more that the calendars
+actually become
+a center of work as opposed to it being
+an adjunct to the mail system
+what it hasn't done yet and what we and
+probably other companies look at pretty
+extensively in research is
+how do i use the calendar to more
+effectively manage my day as opposed to
+my day being managed by the calendar
+and i think that's still one of the
+biggest challenges with the email and
+calendar and
+all the collaborative tools is how do i
+as the individual
+knowledge worker decide what i want to
+do every day
+and not just come in and say here's the
+things that are going to happen today
+based on my calendar so what do you see
+happening there like yeah
+what tools can be built or what what can
+happen there so
+you know our research team likes to talk
+about social analytics they like to talk
+about looking at your environment for
+cues as to what's most important
+so one of the things we're working on
+under the the banner project volca
+is the notion that if i have a 30 minute
+block of time
+that isn't in a scheduled meeting the
+system is going to bubble up for me
+five or six tasks activities i don't
+know what right word to put on it
+uh informational bullets things that i
+should do in this 20 minutes
+because there are things going on in the
+environment right now
+they're time sensitive things like an
+expense report approval
+you know how do i want to best use my
+spare time outside of meetings and then
+when i am in a meeting
+have i invited the right people based on
+the subject matter of the meeting
+are we doing the right document sharing
+do we have the minutes being captured in
+an activity
+so it needs to become more of a
+focusing effort on the work product
+and i've actually i i guess i've kind of
+been beating this drum for years and the
+technology is now going in this
+direction of
+i don't want to be reactive all day i
+don't want to just sit there and say oh
+what's next on my calendar
+oh now i have to start thinking about
+this i want to be going
+all day with here's what i'm thinking
+about here's what i'm trying to
+accomplish today
+and have the tools help me get those
+done interesting and
+and how do you see or is there a
+like is there a um a fit like
+what's your vision about you know
+there's all these buzz about location
+based services and it's telling you
+where you are at this moment
+and so on like is there a tie-in with
+the calendar and your opinion on this
+and how
+what's your yeah so i mean we've already
+taken one step in that direction by
+being
+by linking uh presence awareness with
+calendar so my calendar already knows if
+i've got a scheduled meeting to put
+me on that status automatically
+as the clock strikes 10 30. and it's
+going to grab
+from my presence awareness what location
+i've defined i'm that i'm at
+and in the lotus same time world we have
+that set up you know it can even be ip
+address based
+that when you log in say here from an
+ibm office
+that it already knows where you are it's
+identifying that and knows what the best
+way to contact you is going to be
+based on your system profiles so we're
+kind of halfway there
+the rest of the way there that i think a
+lot of people are trying to solve is
+who's around me that might be
+useful for ad hoc collaboration
+maybe i'm already having a meeting about
+project purple and
+there's a project purple staff member
+who's in the same facility i'm in
+uh right now but they weren't on the
+invite list for this meeting but maybe
+they have something to contribute we
+kind of go
+sort of grab them from their location
+awareness and
+pull them into a work product or
+you know the more random i'm in an
+airport and
+one of my business partners is in the
+same airport and boy we both have an
+hour delay on our flight
+shouldn't we go grab a beer

@@ -1,0 +1,328 @@
+# 20100817-ZjOnF6vKiCw-Don Dodge - Tungle Manifesto (Part 3 of 3)
+
+Kind: captions
+Language: en
+yeah that one that's where it goes over
+the line for me you know let me ask you
+um are you familiar with
+Glimpse I've heard of it but I don't
+know what it is so Glimpse is an
+application that allows you to send
+either broadcast out to a large group or
+to individuals your current location and
+so it's a glimpse into where I am and
+you can put a kind of expiry tag on it
+so I'm willing to share with you my
+current location for the next 15 minutes
+MH um and it's real time right it's GPS
+based and so you can literally watch me
+moving across the map we've talked about
+you know the kind of functionality
+whereby um again based on location and
+where I'm supposed to be the calendar
+will know that I am going to be 15
+minutes late for my meeting give me the
+ability to share a glimpse with your
+meeting inv right so you're sitting in
+the restaurant and you're waiting for me
+I have the ability to say to you Don I'm
+going to be you know I'm here now and
+you're going to watch me make my way to
+our location but it's estimating I'm
+going to be 10 minutes late MH can you
+see that being useful functionality in
+terms of well sure but only to a very
+select group of sure people right so
+whereas with Facebook um you know you're
+making new friends and you're pretty
+open about who you friend with um four
+square yeah agree no agree no it's got
+to be really really close friends you
+know otherwise I don't want them knowing
+where I am right but I'm perfectly happy
+to go on Twitter and say I'm at the tech
+crunch conference or I'm here I'm there
+that's that's fine because I'm opting to
+do that but I don't want to have to
+remember in Four Square uh you know that
+I'm saying I'm here I'm here I'm here uh
+or I guess even with four square though
+you're opting into checking in right
+it's just that I have to remember who's
+following me on Four Square
+uh no that's too too close so we we um
+we we just implemented a feature we
+don't know how people are going to use
+it where um you can do a connection with
+your Force square and tungo will
+automatically check you in based on your
+locations yeah so I'm really curious to
+see first how many people are going to
+enable it yeah and second if
+and second if people will like it we
+just it took us half a days of work to
+integrate and just want to see how
+people are going to use that because for
+us what what's interesting for that is
+that I mean we're pushing out to Four
+Square the the location and then
+eventually then the idea is to get also
+Force grrip to push in information into
+us which is POS maybe I'm overly
+sensitive
+to I don't use the cuz I know I like
+Four Square for um I I'm traveling all
+the time so I'll the four square will go
+to Twitter and I'm on Twitter and I see
+some of my friends they're on the same
+flight like Boston sancisco oh cool so
+I'll go on the plane and find them
+because some of my friends are on the
+plane I think oh that's cool right or
+I'm at a conference and people say that
+they're Oh okay that's cool uh so I kind
+of like that uh and I just haven't
+gotten into the checkin thing about well
+sorry the you know the the assistant
+check-in um that we're talking about in
+tongo is really targeted towards I think
+you know first of all four square users
+right who are Avid about checking in two
+reasons one they want the world to know
+exactly where they are and when um and
+again a different mindset right but
+they're also playing up there's the
+whole loyalty component behind for
+square also right where brands are now
+starting to um reward people whether
+it's through mayorip or frequent visits
+that are they're starting to reward you
+with loyalty points right four square is
+the way that they're keeping track um so
+the assisted checkin is really targeted
+towards the people who are users of for
+square but frequently forget to check in
+right which happens to me all the time
+yeah um I'm using the application but I
+will frequently forget to check in and
+so damn somebody else will take my
+mayorship away at Starbucks or whatever
+the case is yeah um so you know it's a
+little gimmicky whether like Markus
+saying people use it we don't know um
+but again it comes back to here's an
+application that really does belong in
+the calendar because it is event based
+and it is location based yeah let me add
+to that one of the things that I've done
+and it's just you know kind of testing
+and playing with things is I've pulled
+the four square data string overlay it
+on my Google Calendar right so now
+you've got appointments but you've also
+got location and time stamps yeah and so
+you've got a little bit of an
+interesting visualization there and so
+some of the things that we've talked
+about that kind of Dov tail into that is
+imagine a situation where you're
+attending a conference it's an all day
+conference but you've got some scattered
+appointments in there as an example
+you've got a 10:00 appointment uh but
+you show up at the conference at
+10:15 you check in one of the things
+that it should offer to do is you've got
+these three appointments we know you're
+running late as a result of the time
+that you've marked that you showed up at
+the event you want to reshuffle your
+calender you want to notify your
+contacts these are some of the things
+that we're thinking about at least Rob
+other than okay I'm at McDonald's and I
+want my free coffee right so it relates
+much more to time and
+location so I think if I were a four
+square user I would want every check-in
+I make to automatically get onto my
+calendar because of that analytics then
+I can go back and see has some really
+rich metadata as well I I don't know how
+much you use for square but you've got
+location but then you can start adding
+tips right so I'm at this restaurant you
+got to check try out the veg
+cheeseburger M right so now you're
+starting to get some flavor and some
+color about the individual and that
+metadata is really rich as so automatic
+from four square into the calendar cool
+love it automatic from my calendar into
+for not so cool I hear you not so cool
+with that right uh but automatic the
+other way that'd be great get the API
+pull it in put it on the calendar then
+it shows up in your analytics about you
+know where you were and I think that's
+pretty cool right on so um you know this
+is more for off camera but shut them off
+no but I mean we can just not use it but
+my point is if you look at our road map
+what we're
+doing um so we've got our top leadership
+where you know we can be five years 10
+years whatever from now even a year
+there's certain things that we can do
+sooner than later but what's important
+for us in terms of building what we've
+got is first the aggregation of
+data to to be able to get all these
+sources whatever the source may be be
+where as soon as there's intent there's
+location and there's people it should be
+somewhere in your calendar and then and
+then from there you start being able to
+give some really interesting analytics
+to the individual and maybe and we got
+to be careful in terms of the the line
+here to the Enterprise for them to be
+more intelligent of how they're dealing
+because at the end of the day usually
+the calendar is imposed by your
+corporation you're going to be using
+Google Calendar right you're going to be
+using you know small organizations maybe
+not but larger organization it's imposed
+so um so giving the organization tools
+so that they can also be more
+intelligent of how people are using
+their times and analytics so you've got
+that layer then you've got the extra
+layer um which is actually our
+foundation which is helping people be
+more productive with their time easily
+scheduling their meetings offering like
+core application core services that
+existing calendars are failing to offer
+today mainly because they are not
+crossplatform cross company it was meant
+really to work in silos and that's
+Foundation to our business where you
+know yes we're aggregating all that but
+at the same time we're helping people be
+more productive and and so on by easily
+scheduling meetings and so on that's the
+hook the pain point that everybody's
+feeling today that we're solving and
+then when you start adding analytics
+people say wow I didn't know I could do
+this even more and then then you can
+start opening their minds to new things
+and then from there the layer on top is
+you know all these additional stuff that
+you can do by offering services and and
+other things that you can do from the
+calendar that should remain in there um
+but even even like and the bridge to me
+between the uh analytics to the services
+is
+um policies within organizations that
+restricts people to use certain types of
+services if you go to San Francisco you
+got to book it in this hotel these
+hotels you got to use this Airline and
+so on so allowing these corporations to
+to push those services to their
+employees via the calendar because
+that's where they're going to have to do
+all their scheduling anyways and then
+from there to the individual you can
+start also proposing other types of
+services so you can see kind of the map
+that we see how we're going to evolve to
+that how long is it going to
+take we'll see but I mean we've got
+enough in the next six months with just
+the aggregation and the analytics and
+some some really cool tools for the
+scheduling component like the location
+buffering and so on like allowing some
+personalization in terms of uh look and
+feel where you work for a certain
+Corporation when you're sending someone
+to a page you don't want necessar to
+send them to tungle mege you want to
+send them to Google schedule. google.com
+Doge and have a bit of Google branding
+or your own branding or whatever but so
+there's a lot of things that we can do
+just on the scheduling still that
+there's a lot to do there so that's our
+going to be our Focus for the next six
+to 12 months well makes sense you know I
+think uh being a thought leader is
+critically important because uh people
+do buy Vision um you know sure they look
+at features and functions and when
+they're comparing three or four
+companies and okay they're all about the
+same but I like this Vision so I'm going
+to go in this direction because I want
+to get on this train yeah because I like
+where it's going so vision is important
+and road maps are important and I think
+too many companies startups particularly
+focus on features and functions today
+and they're not telling their vision for
+the future and that's you know that's a
+differentiating factor and you uh you
+like this Vision I do yeah I think it's
+great cool yeah can you just talk on
+camera 30 seconds about kind of what you
+do here and what your role is sure I'm a
+developer Advocate at Google so
+developer Advocate means that I advocate
+for developers uh whatever a developer
+needs to get a job done if they need uh
+additional features or they need access
+to uh beta code or they need uh a vision
+on where they things are going then I
+advocate for that uh with the
+engineering team so that's One Direction
+the other direction is uh more of
+evangelist where I make uh tell
+developers about the new things that
+Google is doing and where we're going
+and why it's good to get on on board
+with us and just uh that sort of thing
+so it's a two-way kind of thing with
+developers with add in mind what are
+some of the most exciting things that
+you're that you see happening in the
+calendaring space and as much as as the
+development Community is concerned is
+there anything that comes to mind kind
+of to be your tongue that um well no I I
+think the free busy time and scheduling
+meetings is a pain point and you know
+there are three or four companies that
+really jumped on that in the past three
+years um that so that's a relatively new
+phenomenon in the past three years um
+done a pretty good job of solving that
+problem uh but you guys are really
+thinking much further ahead than anyone
+else that uh that I've seen in the space
+so I I think that's uh critically
+important yeah it's about execution on
+it you schedule your own time yeah
+single biggest pain point if you could
+kind of put your finger on about your
+calendar and the way you interact with
+your calendar yeah it's scheduling you
+know even within the company it's um
+it's reasonably good uh but once you go
+outside the company then it falls apart
+and that's why you know tungle is
+uh really helpful in that space

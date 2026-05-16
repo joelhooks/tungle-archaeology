@@ -1,0 +1,215 @@
+# 20100818-Xot2k77uN54-Ed Brill talks the History of the Calendar - A Tungle Manifesto
+
+Kind: captions
+Language: en
+so 1993 I was in it I wasn't a vendor
+and I was at a typical midsize company
+growing and we were using file sharing
+based email and we had not had any sort
+of historical Legacy Mainframe systems
+we were never on profs or anything like
+that and we just had grown up this email
+culture and as we were growing as a
+company uh you couldn't just go go down
+the hall and say let's have a meeting it
+had to start getting a formalized
+structure from when it was 200 people in
+one building to a thousand people across
+the campus so were people using
+electronic calendars then not really
+there was a lot of file effects and you
+know whatever daytimers and the like and
+on paper yeah and
+um uh you know email to try to
+coordinate calendars but but that was
+that was pretty much it in that company
+um some of the very earliest pdas were
+just starting to come out M so the hp95
+LX was like one of the first handheld
+flip up devices that had CC mail built
+into it um some people had Palm Pilots
+or Palms that they they were just Palms
+at the time uh and you know we're
+starting to use that but really for the
+most part electronic calendaring wasn't
+in the environment it wasn't in the
+workplace uh unless you had been in a
+big company that had IBM profs and a
+main FR that was kind of the only
+so those people were used to oh yeah
+well my calendar's just on my system
+that wasn't a very good calendar but it
+was there closed environment you had it
+we didn't have any of that okay um and
+none of the filesharing vendors had any
+kind of uh calendaring Service as part
+of their email systems there was nothing
+with CC mail there was nothing with
+Microsoft Mail uh uh work perfect office
+eventally added calendar but it wasn't
+it wasn't initially there either so the
+industry in the early '90s was just
+starting to recognize calendaring Lotus
+acquired a company called threads in the
+UK and they made organizer and so Lotus
+had this Pim product Lotus organizer and
+then they undertook in 93 the
+engineering to make Lotus organizer a
+group caliber product okay and as a cc
+mail customer with these kind of
+problems in our business we were
+extremely interested in what Lotus was
+going to do there Microsoft also started
+doing with schedule plus which some
+added to Microsoft Mail and you know so
+it sort of got born in the distributed
+environment 93 time frame so why do you
+think the counter was merged with mail I
+think transport was really the main
+reason everybody already got email in
+the organization so it was the only
+system in most companies that touched
+everyone and if I could piggy back on
+that to do some other business workflow
+especially something as horizontal as
+calendaring I think that that was
+probably the logic
+um and in fact the early versions of
+lotus organizer didn't do anything in
+the mail system your invites and all
+that stuff were separate when you
+launched Lotus organizer you saw them
+but they were called out of your inbox
+by the organizer program essentially as
+a hack right it would go into your inbox
+and look for keywords and pull those
+over into Lotus organizer but you did
+all your workflow and calendar stuff in
+the calendar then it wasn't like you
+were in your inbox and saw an invitation
+okay I just want to see if everything
+working all
+right actually this is good by the way I
+I didn't even know that the early
+versions of U of uh of uh calendar were
+actually separated from the
+mail it just used males as transport
+that was all it was and it was uh and
+also I guess it's a good distribution
+channel right like you you basically say
+well if I want to get calendar in the
+hands of a lot of people at the end of
+the day put it with the mail right well
+and it had a directory already so was
+that you know but the individual
+calendars were individual files they
+weren't in any kind of shared database
+they had to go on an H drive on the
+network or whatever but it was a it was
+it was a it was a single file that was
+my.org or O2 or whatever and I could
+copy that to my local drive if I was
+working on a at home or on a laptop or
+whatever not that everybody had laptops
+at that time either but um you know not
+many at all did yeah but it was very
+single user Centric and very um cluing
+it just was yeah but but it somehow
+worked okay and then from so so then
+what was the next logical step from
+there so then in uh kind of the mid 90s
+is when um the client server messaging
+era sort of started to take off with
+lotus with notes V4 and Microsoft with
+exchange right and exchange 96
+originally just used a Microsoft male
+client but then in out they introduced
+Outlook in
+9797 and that was a combined mail and
+calendar client and Lotus introduced
+noes
+4.5 with an integrated calendar that we
+had based Loosely on the features of
+organizer uh in 1997 we also made
+organizer work on top of notes what were
+what were customers saying like back
+then
+like calendaring became a a requirement
+driven by it by it yeah yeah just as a
+this is another service we want to
+provide as part of our Enterprise
+Communications infrastructure now that
+we see the technology is available we
+want it and we want it in this
+environment and a lot of companies that
+had never gone through a fil sharing
+based email system were still on
+mainframes we're on profs were're on uh
+deck Allin one you know all these other
+sort of Prior generation mail systems
+that it had calendaring so they were
+like well if I'm going to move to client
+server it's got to have a calendar so
+that was really the impetus for us to
+get that into the product uh in the 96
+97 time frame okay and and then so that
+so that calendar that you started to put
+in there
+uh like when did it become uh when did
+the switch happen from saying okay it's
+my calendar versus I want to start
+sharing it with other people when the
+and what was the reason people started
+to want a calendar
+share um I think
+that some corporate cultures really
+drove the idea that I want to I want
+everybody to be able to see what my
+calendar is my department I want to be
+able to choose people to know where I'm
+at there were hard the mechanisms
+weren't easy to distribute that
+information any other way uh most of the
+email systems didn't even have an outof
+the office kind of a function at that
+point not an effective one so you know
+putting my calendar online was an easy
+way to tell my work group or my
+department or my building or whatever
+where I was and and even the earliest
+versions of notes and Outlook had some
+level of privacy controls or whatever
+that I could just publish free time or I
+could just publish my calendar or
+whatever and I think that the
+organizational need was just to be able
+to know where people were and as
+companies sort of that were distributed
+across multiple sites uh started to work
+together more using other current
+generation collaborative tools okay and
+and and did that need then evolve into
+something else after that or or was it
+really I want to know what people in my
+organization are doing I think the
+evolution from there
+was how do I schedule conference rooms
+how do I think about really truly doing
+meetings this way and not just just
+Personal Diary info how do I sync that
+to something that's a local device of
+some kind or at least have access to it
+at home so the usage patterns did
+definitely change from the initial you
+sort of our 4.5 release okay to to now
+the the use of calendaring has become
+part and parcel of every deployment you
+know for a while there will be
+introduced it about half customer said
+we're not going to use that we're just
+using it as an email system what we have
+apps but calendar right now in 2010 I I
+think pretty much every notes customer
+uses the calendar I'm sure that Outlook
+users would say exactly the same thing
+which

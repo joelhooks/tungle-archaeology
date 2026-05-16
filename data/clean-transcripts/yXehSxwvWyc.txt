@@ -1,0 +1,17 @@
+# 20101111-yXehSxwvWyc-How to set your default calendar in Tungle.me
+
+Kind: captions
+Language: en
+You can connect multiple calendars to
+Tungle. However, meetings booked in
+Tungle will only be added to one of
+those calendars. This is your default
+calendar. Here's how to set it.
+Click calendars and contacts on the
+left. You'll see all the calendars
+you've connected.
+Select the calendar that you want to
+make default
+from the drop down.
+Click save changes.
+And you're done.

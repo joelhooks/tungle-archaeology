@@ -1,0 +1,83 @@
+# 20100818-o1bMLkIt8jY-Mark Hendrickson on Transparency - A Tungle Manifesto
+
+Kind: captions
+Language: en
+um you know I think Google deserve some
+credit for doing a little bit when it
+comes to experimenting with public
+versus private entries and calendars and
+trying to make that to open up the
+calendar to more public consumption but
+they didn't really take it very far and
+so it leaves so the challenge up to
+people like us to figure out what can we
+do to innovate around how people use
+their calendars I mean we often call
+ourselves sort of a social calendar even
+though we're not looking to replace in
+any way you know google calendar or your
+outlook it's a different sort of
+experience that I want to provide for
+people but there's there's natural tions
+the calendars that you you already use
+so when we started off everything was
+public on plancast and before we
+introduced any kind of privacy settings
+we definitely had a lot more feedback
+from our users from the segment and it
+was a minority segment that it wanted to
+have a greater control over just to gets
+their plans just said that basic I want
+my account to be only accessible by the
+people that I pre-approve since then
+since we introduced that functionality
+we don't actually hear a lot from our
+users about hey I wish you know things
+were just generally more private there's
+feature requests around you know certain
+plans when people post them they want
+those to be private but those sort of
+activities just aren't on the site yet
+because people opt into not sharing back
+stuff yet so it's not as though we feel
+as though our users are putting stuff
+out there right now that they're
+actively concerned will come back and
+hurt them we're surprised by on a
+percentage basis the number of people
+who either decided to keep their plans
+open or decide to walk them down yeah I
+mean there's a it's a very small
+percentage of people who have locked
+down our account very small percentage i
+mean i can tell you on tunngle side when
+we went through this joint index or not
+you want to profile to be open to the
+world
+about 85 to 90 percent it's a young
+school yeah yeah I think there's a lot
+to be said for people's understanding
+that they sort of live two lives there's
+the life stuff they're going to share
+publicly in this stuff they're going to
+keep private and I think if you frame
+your service as a by default public sort
+of thing people going to get that and
+they're going to interact with it as
+such and they're not going to complain
+bitterly about not being it will share
+certain private things they're more like
+likely just to request functionality but
+that will allow them to do that so it's
+not really a problem per se it's just if
+if you want to somehow capture that sort
+of more private activity you have to
+think of ways to to allow for it so we
+don't really view it as a problem we
+just viewed as a sort of strategic data
+issue how do we you know what's the pros
+and cons of getting more granular
+controls and we don't want to make it
+more complicated than it has to be which
+is probably why we kept it open the
+public to start with

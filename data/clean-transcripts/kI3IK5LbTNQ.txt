@@ -1,0 +1,37 @@
+# 20110304-kI3IK5LbTNQ-How to Create a Meeting Invitation in Tungle.me
+
+Kind: captions
+Language: en
+to send a meeting invitation start by
+clicking the schedule a meeting
+button the first part is very similar to
+a standard meeting invitation enter your
+information including optional location
+of message and move on to adding
+participants if you've connected your
+calendar and opted to have your contacts
+as well you'll be able to search your
+contact
+list moving on to step three this is the
+part that's different from a standard
+meeting
+invitation rather than select one time
+and hope that everyone can make it we're
+going to propose multiple
+times since I've set my meeting duration
+at 30 minutes when I select a full block
+like this what I'm saying is that I'm
+available for any 30 minute time slot
+within this block
+in the preview pane we can see what it
+will look like for our
+invitees you'll note that they don't see
+any of my meeting events all they see
+are the times that I've proposed is
+available finally I select if I want
+tungle to send the meeting invitation
+for me or if I'd like a private URL to
+include in in a current email or Skype
+conversation
+I click create
+invitation and I'm done

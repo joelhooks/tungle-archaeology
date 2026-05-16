@@ -1,0 +1,18 @@
+# 20110304-FFCHdWIRk7I-How to Set Maximum and Minimum Meeting Durations in Tungle.me
+
+Kind: captions
+Language: en
+you can set minimum and maximum meeting
+durations for people to request through
+your public
+profile go to the public profile menu
+and select edit availability weekly
+template scroll to below the calendar
+view to where the meeting durations
+are choose the minimum amount of time
+that you would meet
+for and the
+maximum and save your changes
+now when people visit your page they'll
+only be able to select meeting times
+between the durations that you've set

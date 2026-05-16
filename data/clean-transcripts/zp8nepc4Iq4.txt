@@ -1,0 +1,265 @@
+# 20100818-zp8nepc4Iq4-Don Dodge on Transparency - A Tungle Manifesto
+
+Kind: captions
+Language: en
+um well i think the pain point is
+high enough that
+if the pain is high enough that people
+will do anything to solve it and privacy
+is the least of their concerns when you
+know they're trying to solve a pain
+point so
+um
+privacy is way over
+uh overdone as far as i can tell i mean
+it's a nice topic to talk about but the
+reality is
+people
+generally don't care
+you know i think you have a unique
+viewpoint because one of the things that
+we notice is the community here is very
+insular yeah right and so when you talk
+to valley folk the idea of privacy is
+kind of kind of becomes ridiculous right
+we lead open transparent lives right
+you move back to kind of the northeast
+and you get a little bit of a different
+flavor
+because you're bi-coastal you're you've
+got that perspective of okay i
+understand what the valley community
+looks like but i also understand what
+white-collar boston
+blues
+yeah well even me you know i'm big on
+facebook and twitter and blogging and
+photo sharing and all that stuff so
+share share share
+four square
+make is creepy
+that one that's where i draw the line
+why because
+uh there are very very few people that i
+want to know where i am
+all the time
+i don't mind on twitter if i say hey i'm
+at the kenny loggins to do or hey i'm in
+i don't mind doing that but i do mind uh
+because that's me opting to do that
+that's giving everybody the ability to
+keep tabs right
+when you do foursquare
+then it's like oh now i've got to
+remember who
+is following me on foursquare so when i
+do this who's going to know that right
+where i am
+so that one's a little creepy and on
+foursquare i only accept people that
+that my inner circle that i really
+really know
+i have
+hundreds and hundreds of foursquare
+invitations that i just
+ignore yeah but let's use facebook as an
+example sorry you've got a family
+um
+pictures of your family on facebook
+you've got some very personal things
+um are you accepting business contacts
+there absolutely you are and so you're
+open in that way yeah so it's really the
+question of where am i now yeah that one
+that's where it goes over the line for
+me
+let me ask you
+um are you familiar with glimpse
+um i've heard of it but i don't know
+what it is so glimpse is an application
+that allows you to send either
+broadcast out to a large group or to
+individuals your current location and so
+it's a glimpse into where i am and you
+can put a kind of expiry tag on it so
+i'm willing to share with you my current
+location for the next 15 minutes
+um
+and it's real time right it's gps based
+and so you can literally watch me moving
+across the map
+we've talked about you know the kind of
+functionality whereby
+again based on location and where i'm
+supposed to be the calendar will know
+that i am going to be
+15 minutes late for my meeting
+give me the ability to share a glimpse
+with meeting invitee
+right so you're sitting in the
+restaurant and you're waiting for me i
+have the ability to say to you don i'm
+going to be you know i'm here now and
+you're going to watch me make my way to
+our location but it's estimating i'm
+going to be 10 minutes late
+can you see that being useful
+functionality in terms of
+well sure but only
+to a very select group of sure people
+right so
+whereas with facebook uh
+you know you're making new friends and
+you're pretty open about who you friend
+with um
+foursquare yeah no no it's gotta be
+really really
+close friends that you know otherwise i
+don't want them knowing where i am right
+but i'm perfectly happy to go on twitter
+and say i'm at the techcrunch conference
+or i'm here i'm there that's that's fine
+yeah because i'm opting to do that
+but i don't want to have to remember in
+foursquare
+you know that i'm saying i'm here i mean
+i'm here
+or
+i guess even with foursquare though
+you're opting in to
+checking in right it's just that
+i have to remember who's following me on
+foursquare
+no that's too just yeah so we we um we
+we
+just implemented a feature and we don't
+know how people are going to use it
+where
+um you can do a connection with your
+foursquare
+and tungle will automatically check you
+in based on your locations
+yeah
+so i'm really curious to see first how
+many people are going to enable it yeah
+and second
+if it in second people will like it we
+just took us half a days of work to
+integrate and just want to see how
+people are going to use that because for
+us what's interesting for that
+is that i mean we're pushing out to
+foursquare
+the the location and then eventually
+then the idea is to get also foursquare
+to push in information to us
+maybe i'm overly sensitive to no i just
+don't know maybe you're not gratifying
+i don't use the enforcement because i
+know i like foursquare for
+um i'm traveling all the time so i'll on
+the foursquare will go to twitter and
+i'm on twitter and i see some of my
+friends they're on the same flight sure
+oh cool so i'll go on the plane and find
+them because
+some of my friends are on the plane i
+think oh that's cool right or i'm at a
+conference and people will say that
+they're oh okay that's cool
+so i kind of like that
+and i just haven't gotten into the
+check-in thing about it
+sorry it's the you know the the assisted
+check-in um that we're talking about in
+tangle
+is really targeted towards i think you
+know first of all foursquare users right
+who are avid about checking in
+two reasons one they want the world to
+know exactly where they are and when
+um and again a different mindset right
+but they're also playing up there's the
+whole loyalty component behind
+foursquare also right where brands are
+now starting to um
+reward people whether it's through
+mayorship or frequent visits that are
+they're starting to reward you with
+loyalty points right yeah foursquare is
+the way that they're keeping track
+um
+so the assisted check-in is really
+targeted towards the people who are
+users of foursquare but frequently
+forget to check in right which happens
+to me all the time yeah um i'm using the
+application but i will frequently forget
+to check in and so damn somebody else
+will take my mayorship away at starbucks
+or whatever the case is yeah um so you
+know it's a little gimmicky whether in
+like marcus saying
+we use it we don't know
+um but again it comes back to here's an
+application that really does belong in
+the calendar because it is event-based
+yeah and it is location-based yeah let
+me add to that one of the things that
+i've done and it's just you know kind of
+testing and playing with things is i've
+pulled the foursquare data stream and
+overlaid it on my google calendar
+right so now you've got appointments but
+you've also got location and time stamps
+yeah and so you've got a little bit of
+an interesting visualization there and
+so some of the things that we've talked
+about that kind of dovetail into that is
+imagine a situation where you're
+attending a conference it's an all-day
+conference but you've got some scattered
+appointments in there
+as an example you've got a 10 o'clock
+appointment
+but you show up at the conference at 10
+15.
+you check in
+one of the things that it should offer
+to do is you've got these three
+appointments we know you're running late
+as a result of the time that you've
+marked that you showed up at the event
+do you want to reshuffle your calendar
+do you want to notify your contacts this
+is these are some of the things that
+we're thinking about at least rather
+than okay i'm at mcdonald's and i want
+my free coffee right so it relates much
+more to time and location
+so i think if i were a four-square user
+i would want every check-in i make to
+automatically get onto my calendar
+because of that analytics then i can go
+back and see
+some really rich metadata as well i i
+don't know how much you use for square
+but you've got location but then you can
+start adding tips right so i'm at this
+restaurant you got to check and try out
+the veggie cheeseburger
+right so now you're starting to get some
+flavor and some color about the
+individual and that metadata is really
+rich so automatic from foursquare into
+the calendar cool
+yeah right automatic from my calendar
+into foursquare
+yeah
+it's not so cool
+not so cool with that right
+but automatic the other way that'd be
+great give the api pull it in put it on
+the calendar then it shows up in your
+analytics about you know where you were
+i think that's pretty cool right on

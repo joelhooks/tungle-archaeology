@@ -1,0 +1,30 @@
+# 20100907-IGi7DmnfbOg-Tungle.me： How to sync with Plancast
+
+Kind: captions
+Language: en
+to sync your plan cast calendar you'll
+need to get your unique calendar url
+here's how to do it
+sign into plancast
+go to profile and click calendar feed in
+the right menu
+click ical and copy the link
+sign it to tungleme
+go to management and select synced from
+the menu
+click add new calendar and contact sync
+source
+and select plancast from the pop-up
+name your calendar paste in the link you
+copied from plancast
+and click add source
+your plancast calendar is now synced
+note that the tungleme sync with
+plancast is read-only
+that means you'll be able to see your
+plan cast events and tunnel me and your
+availability will be updated as you add
+new events to plan cast
+but tell me will not be able to add new
+events booked through tumble me to your
+plan cast calendar

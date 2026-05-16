@@ -1,0 +1,300 @@
+# 20100818-P__H36l3isg-Ed Brill - Tungle Manifesto (Part 4 of 4)
+
+Kind: captions
+Language: en
+I took my daughter bowling a few weeks
+ago on a Friday night and I checked into
+the bowling alley on four squared and
+said oh special here my other was a
+special and it said basically for
+checking in and get two-for-one bowling
+so did that and sent me to go to the
+bowling alley know my daughter wanted to
+go to the bullying out but did we stay
+longer yes and therefore did I have
+another beer probably you know so you
+know they gave me a free free game of
+bowling that doesn't there's no
+incremental cost for that right you know
+some marginal electricity or whatever
+there was nobody waiting for that alley
+and you know we were there but if they
+had known or if you would have known
+beforehand of the special yeah then
+maybe you would have brought a friend
+right right right right now i can assure
+and then they use twitter to so maybe I
+did know if this guy kept every one of
+the funniest part of that whole story is
+that when I went to get the 241 and I
+showed the woman what would it set up
+she's like what is that I'm like it's
+foursquare somebody here must know what
+it is because you guys put the special
+out here just like oh well okay if you
+have a coupon for two for one that's
+fine I'm like it's not a coupon and it's
+a Foursquare thing but that's the only
+term is she knew how to relate to it so
+not everybody's kind of there yet but I
+think my daughter ate understood more of
+what I was trying to do then the woman
+selling bowling shoes or whatever
+absolutely interested but that's
+actually really interesting so if you
+had two innocent and know you talked at
+it and large but i'm looking for a short
+snippet the calendar of future is or
+does i think the cat will start to start
+with the calendar of the future yeah
+like say there is rest look it is there
+deep from the calendar the future helps
+you decide what you want to accomplish
+rather than drives your day for you
+that's really for me the key is
+understanding what you're working on
+what's going on in your social network
+what's going on in your personal life
+and gives you the information for you to
+decide intelligently how you're going to
+be successful in any
+okay excellent very cool all right you
+think we covered is there anything you
+think we should didn't deep groan we've
+covered we've talked a bit about
+analytics and data and so on yeah the
+only topic we didn't talk about which is
+interesting given what you guys do is
+free top the concept of free time okay
+because it is still such a pain in the
+ass in enterprise calendaring you guys
+solved part of the problem at least and
+when I pitched on goal in my you know
+public presentations whatever I I always
+start with the if I want to have a
+meeting with you mr. customer what do we
+do right now we sent a bunch of emails
+around and get our secretaries involved
+everybody tries to figure out when
+they're available oh wait no that
+person's on vacation it's just such a
+huge profits problem within the four
+walls of most organizations and it's a
+hundred times more complicated because
+the lack interoperability outside the
+organization and so I think free time
+you know we thought we solved it pretty
+early on with nodes we made a
+centralized database into that
+information offline but you know I see
+people within IBM now using tumble
+because it's just an easier metaphor to
+say let me say what time I have
+available and we'll figure out what's
+best for everybody there's too many
+people and in the two years I've been
+executive I've learned this feel like if
+they go to schedule a meeting and they
+hit that free type search button and
+your time shows available they're
+entitled to that time that kills me it
+is just unbelievable the presumption
+that I get and you know I'm happy to
+meet with almost anybody and I'd be able
+to talk about a customer and that's what
+I'm there for but let's make sure it
+fits with my workflow where I'm at that
+day maybe I'm free in that time to have
+a conversation in the car but if you're
+trying to schedule a meeting where you
+want me to look at charts it's not going
+to work but you don't know that because
+all your see if it's that little free
+block of comment
+so I think that one of the problems that
+still had to be addressed and I think
+tumbles gone further than anybody else
+is how do we make that free time concept
+effective and useful not just oh look
+there's a block of time and you must
+face this because your calendar on
+tunngle makes you appear to be available
+monday afternoon to friday morning but
+you're clearly not okay right so you're
+helping people with a there's no barrier
+to get to you but once they try they
+have to work with you on what's really
+available you know that that's actually
+a very interesting evolution of how we
+evolved and things that we're actually
+implementing in addition for example
+when we first started we thought okay we
+want we always thought we want to solve
+the scheduling problem that that from
+the inception of the company this is the
+pain we're so but then when so then was
+alcohol we need to counter sharing and
+calendar sharing doesn't solve the
+problem you know calendar sharing gives
+you information calendar sharing does
+not solve it's not because I'm busy then
+I'm not free to meet you and it's not
+because I'm free that I'm ready to meet
+you it's like it depends on the context
+of what I'm doing so at one point we
+said okay well let's let's try to do it
+so that people can propose multiple
+times and give the choice so so so the
+idea was without knowing whether you're
+free or not let me propose multiple time
+and let people pick and that was great
+but then it was like hold on there is
+some valuable information in this
+calendar thingy okay so let's say I
+leverage that so then we started to do
+and we showed free/busy to people and we
+quickly realized that at the end of the
+day people didn't care about data like
+didn't I think I didn't want to know
+when you were busy actually I don't even
+want to know what you're doing I want to
+know when you're free to meet me right
+that's what I'm trying to do right like
+I don't care what you do it and so we
+flipped our thing around now it's
+available yeah and you get to set the
+parameters of when you want it and then
+with time what we will do is that
+on the type of people you may have
+different types of profile that you want
+to share with different people as well
+as you need to take into consideration
+while I'm meaning this i'm available
+here but it depends for what like this
+one because i'm traveling maybe it's
+just a phone call maybe you know and so
+it really depends on the context of what
+you're doing so we're going to add some
+contextual stuff to your availability so
+that you when people go to book a
+meeting with you they'll know that i
+guess you can book it there because he's
+traveling get remember and so those this
+is the evolution will start doing so
+yeah absolutely yeah it's a it's an
+interesting problem to solve and we're
+having fun yeah yeah i mean i look at
+you know my day-to-day routine right now
+and my normal assistant is out on
+vacation this week so i'm working with
+somebody who didn't who isn't into
+rhythm with me right I'm not it's still
+gonna understand how you use your yeah
+and so the first day she left my
+calendar she actually ping me and she
+said your calendars a mess I've like no
+it's not but on my calendar I have from
+eight to nine every day this week
+blocked for my daughter to get on a bus
+right because that is my time that I
+need at home to get her you know on her
+way and so she brings me with it can you
+do a seven a.m. call and I'm like know
+if my daughter's here and I gotta get
+her out of the bus between 8-9 I got to
+get her fed and watered and showered and
+everything else between seven and eight
+but if it's a week that she's not going
+to camp or she's not with me in my eyes
+then sure I would do a seven o'clock all
+right so we're not in that rhythm yet so
+is that and then i block my calendar at
+noontime every day so that it doesn't
+show up is free and being free time
+search me not because I want to take an
+hour for lunch every day that's I can't
+remember the last time that happened
+then right other than a meeting like
+today but because I want time to catch
+up an email I want time to just be able
+to stop and think and not just have call
+after call after meeting after meeting
+all day and so she didn't understand
+what those were for my normal assistant
+knows sometimes I'll think a call in
+that out right if it's really important
+she'll help me work through that but
+normally that is just I don't you
+right absolutely and that it was oh well
+they want to do this face-to-face
+meeting in Chicago when can you do that
+it looks like you're available and this
+assistant she was so funny she's like
+well I took your home address and the
+address where the meeting is and it's
+you know 32 miles and says it'll take 47
+minutes to get there so a block an hour
+in front she thought she was being
+really proactive and helpful I said well
+actually for that location i would take
+the train and the train leaves at
+twelve-thirty not at one so I actually
+needed another half hour she's like oh
+so it's not the trains not as fast as
+driving I said well but traffic time you
+got from google maps yeah that's not
+real yeah if I could get there driving
+in 40 minutes yeah and I probably would
+but not at that time of day in Chicago
+so it was this fascinating sort of
+rhythm of what does she need to do
+around me having an actual physical at
+home meeting which I don't do that often
+right because either i'm on a plane and
+i'm on the road or i work at home right
+this I BM facility buried right now as I
+said to be walking it I've never been
+here I've been here twice before I work
+at home and my rhythm around that is
+very different that my boss who works in
+an IBM facility you know since it a
+cubicle has it right next to him you
+know goes to conference rooms for
+meetings but at that whole world isn't
+my world so you know the calendar is the
+same but it's not really missing
+absolutely absolutely i mean yeah i've
+i've had once been assistant for about a
+month like that I'm gonna do my so yeah
+it's like the easier yes and it was not
+a ton below me was in a previous life
+but in
+like a is to train someone to understand
+how I want to use my time like I'd
+rather build the tool the skies are hip
+done yeah there you go so let me turn
+the camera cam yeah but yeah I still
+don't have my assistant get involved
+because it's just it's not that I don't
+want the help i jus desperately want
+that but there's so many nuances to the
+way that I work and she has to support
+other people too cool at some point you
+get it important enough that you have to
+do it absolutely so I think we're good
+unless there's something else I think
+we've covered so privacy analytics
+calendar future visualization we talked
+about I mean one of the one of the
+chapters that the manifesto is you know
+life optimization like how how will all
+this stuff that we're talking about make
+your life easier and at the cute you
+gave some good examples of that we
+talked about the past I think we're good
+cool they're the restroom and we can
+talk about whatever else and we go to
+lunch early here or whatever it we've
+been in this the ten work mom Gail so
+okay so foursquare did no I just didn't
+know where I am

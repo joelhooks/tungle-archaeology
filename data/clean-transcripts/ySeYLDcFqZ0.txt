@@ -1,0 +1,401 @@
+# 20100817-ySeYLDcFqZ0-Don Dodge - Tungle Manifesto (Part 1 of 3)
+
+Kind: captions
+Language: en
+mhm so as an example I just had a press
+meeting in San Francisco from uh noon to
+1 mhm and okay cool but I forgot to put
+in the travel time to get from here to
+there and to get from there back so on
+my calendar I just put 12 to one or no I
+didn't even do it I was sent an
+invitation right so you just clicked it
+I just clicked it and accepted it okay
+cool right no the person who's sending
+me the the the calendar invite doesn't
+know that I need travel time to get
+there to there so something should have
+prompted me to say okay when you click
+accept now do you have travel time that
+you need to enter around this thing
+because I just clicked accept and moved
+on to the next thing or or it could have
+been intelligent enough to know by
+location yeah where you are and then be
+able to do that you know buffers buffers
+should really be automatic right again
+we know starting destination we know
+ending destination right and so we
+should be able to say to you this 1 hour
+meeting is really going to cost you an
+hour and a half right because we're
+allocating 15 minutes to get there and
+15 minutes to get back so in theory
+you're not free at one you're free at
+115 130 right right so buffers are
+something that uh you know Microsoft
+calendar doesn't handle no calendar
+handles that so if there a way to prompt
+for buffers cuz there abut there aren't
+always buffers sometimes you know it's
+fine phone calls and it's fine that it
+back to back absolutely yeah so that
+would be a help to
+prompt people to put buffers in the
+other big calendar thing rolling okay
+the other big calendar issue I see is
+the difference between my personal
+calendar my family calendar my work
+calendar right so you have all these
+different calendars to manage and my
+wife has things that she puts on her
+calendar that I don't know about so
+syncing calendars I don't know that
+that's in your domain but you know it is
+an issue with calendar
+see our sorry our vision on this is that
+you've got you know your calendar is
+your time right and at the end your time
+is your time whether you're at work
+whether it's personal and so on and and
+having two location where you're storing
+two separate sets of data doesn't make
+sense because they need to work in one
+location so that's why for example we
+did the multiple syncing where you can
+sync your Gmail your outlook your
+whatever so whatever you're using as
+personal whatever you're using as work
+you can have it all in one location and
+start using that to better manage your
+time but that's just one you know step
+that we're do which really comes back to
+the idea if you've got all of these um
+data silos out there at the end of the
+day I'm not a working professional or a
+stay-at-home mom I'm I'm a person that
+has a calendar with particular needs
+right and that has to be managed from
+9:00 to 5: but it also has to be managed
+from 5 onwards right so it's a question
+of scheduling time at the end of the day
+right right right okay so here's another
+one zne does a good job of handling your
+email and processing telling you these
+are the people that you uh send email to
+most often or receive email from or did
+you get did you get a copy of our agenda
+before no is it doing great no uh or if
+I did I didn't read it right um that's
+sad but no I didn't um so zomie does a
+good job of managing your email and
+mostly in retrospect uh like for example
+people don't know how they spend their
+time right right uh so I've got a
+calendar full stuff and if I tried to do
+a retrospective of how did I spend my
+time last month last year analytics on
+calendar Nobody Does that that I know of
+sure so the net net of everything we're
+talking about is you've got these data
+streams coming in right and so at the
+end of the day it's the Calendar's
+obligation to interpret the way you're
+spending time go through the process of
+analyzing the data provide you with
+Insight right and so we see the net net
+of this exactly is what you're saying
+which is optimizing your life right two
+problems that we know about people don't
+have enough time and they have too much
+information right we've got to
+contextualize the information and
+optimize their time right right so is
+that on your agenda that's what I'm
+saying we're actually working on it
+right now there's there's an entire so
+you know again we've broken this
+manifestor out into um into chapters and
+we there's an entire chapter that we
+want to devote to to the analytical
+component of all of this information
+mashing together so sorry no as an
+example you know we're talking about
+things like four square data right um
+being able to import my four square data
+my feed into my Goog Google Calendar as
+an example or tongle um provides me with
+a completely historic view of where I've
+been over the past x amount of days that
+data will then feed a predictive engine
+that says you know what it is time to
+book a meeting a lunch meeting let me
+look back at all the four square data
+and see where I've checked in most often
+um because there's a high likelihood
+that that restaurant will work for me
+right going forward yeah so the entire
+recommendation component of this
+optimization process of the calendar can
+be fed by bringing in a bunch of
+different data streams all of which in
+their own way will bring insight into
+what I'm doing so there's another
+company called rescue time I don't know
+if you know about that rescue time yeah
+it um looks at how you spent your time
+and helps you figure out how to rescue
+some of it back right so that you're not
+wasting time uh we're having an off-site
+meeting for my group in Google U there's
+about a hundred of us and one of the
+exercises I'm going to ask them to do is
+look at your calendar for the past four
+weeks and put into buckets how you spent
+your time and you're going to be shocked
+at the way that you spent your time
+right so analytics on how you spent the
+time and maybe take a look at rescue
+time and see what they do but I don't
+even know I I just know about the
+company and I know generally that they
+analyze your time and try to to retrieve
+some of it is that do you know if it's
+self-reported in the sense that it is
+okay yeah yeah so that's another
+interesting area but and also what's
+interesting is so we're talking about
+the individual right how can they better
+manage their time but then you can also
+bring it to the Enterprise level and and
+so seeing not necessarily like big
+brother-ish you know he's not booking
+enough meeting versus this guy but more
+as a company here's how your team how
+your employees are spending their time
+here's how much they're traveling here's
+where they're going here's how much you
+could be saving by doing these little
+tweaks and you know putting these
+regulations or whatever here are the
+restaurants where people are going and
+maybe you can cut deals with these
+restaurants and so on so there's ways
+that we can leverage also for
+Enterprises um analytics so that they
+can optimize the time of their teammates
+and also on on revenue and on cost as
+well yeah um so we see that also as part
+of our Enterprise play as we're getting
+into companies it's spreading pretty
+rapidly we're going to give analytics to
+the individual users but at the same
+point we can also give analytics to
+corporations right yeah that's a good
+idea uh I think analytics is critically
+important another company uh six sense
+analytics uh six sense analytics it got
+acquired so it's not called that anymore
+but basically what they did was they put
+a uh agent on your desktop and it kept
+track of every application that you used
+and how much time you spent in each
+application and uh then it did this
+report uh to tell you this is where you
+spent your time and which applications
+and how much time and it also aggregated
+it up and showed uh across all the
+members of your group see it was kind of
+big brother kind of like o I don't know
+if I like this but it was actually
+pretty interesting too much time on
+Twitter not enough time on corporate
+mail yeah and then you can compare
+yourself to others in the group to see
+you know how you're team and then
+overall the company you know how team
+was time was being spent that could be
+beyond the bounds of what you're uh what
+you're doing but it's just another way
+to think about you know analyzing time
+one of the other things that we've been
+talking about is we you know we look at
+the broad scope here is visualization
+right the calendar grid is something
+we've literally been looking at for
+hundreds and hundreds of years as you
+bring in these other data streams and
+the calendar begins to become this
+Dynamic application that's providing
+insight into your life it's more than
+likely that that grid is not going to be
+the primary
+interface let me give you an example um
+we came out to San Francisco in the
+valley and I've got meetings all over
+the place I got meetings in Mountain
+View poo Alto
+Milas down in San Fran it would have
+been wonderful to look at my week on a
+map right another type of visualization
+individuals location give me a sense
+does this make sense or am I bouncing up
+and down what does this look like right
+um and so you know as we begin to think
+about what does the model really look
+like the question becomes does the
+sandbox that holds this information
+remain the
+same I think we're also we've been you
+know this grid has forced us to really
+um I guess tag or index our calendar by
+event title as opposed to other ways of
+looking at it like location like
+attendees right um give me a view where
+I can look at literally look at the
+thumbnails of the people that I'm
+meeting over the next week right um you
+know or plot those out on a map so that
+I can see that I mean we've done it
+we've been bouncing all over the place
+whereas the calendar really should have
+known you know what you're going to San
+Francisco twice over the period of a day
+let's move that to a separate day and
+make sure that we're concentrating all
+of the so defragging your calendar
+exactly exactly yeah interesting so
+defragging your calendar that's another
+interesting topic to look at uh but a
+lot of what I hear you talking about is
+really what zne does for email tungle
+does for calendar you know and zne has
+been uh quite effective at mining uh
+Trends and information and data about
+your email that you use every day and
+you're on top of it and you think you
+know but there's a lot you don't know
+there's a lot of analytics and trends
+that you don't see so applying those
+same things to a calendar could be
+pretty interesting we're also looking at
+all of these data feeds that right now
+ex you know whether you look at the
+location based services or the kind of
+social applications that we're seeing
+out there um none of them really have a
+home in terms of context right so as an
+example our plancast integration um
+plancast is a great platform for
+broadcasting intent I'm planning to be
+at this event um but it's a standalone
+application and there really is no home
+for that data short of it being on
+plancast own property for square as well
+so you got this location based data that
+is also uh very much tied to a
+particular event but again doesn't exist
+inside the calendar so you know we're
+looking at this and saying you've got
+all of this information that's
+broadcasting out to your social graph
+where I am where I'm going where I've
+been who I've been with um you know
+maybe we're a little bit close to the
+glass but we believe that the calendar
+would be the right hub for all of that
+information from a contextual
+perspective so instead of me having all
+of these different applications that are
+all pushing data Feeds out um um let's
+have a place where we can aggregate all
+this information and where it can have a
+home right and as such we then have the
+ability to start analyzing this data in
+aggregate as well relative to my
+calendar and where I'm going interesting
+so here's another thing that may be
+unique to me because I'm a b Coastal
+kind of I live in Boston and I work in
+Mountain View so I'm on either Coast um
+I get invitations to
+uh conferences and events and parties
+and meetups and all kinds of stuff all
+the time and I usually say no because I
+don't know if I'm going to be there or
+not which coast I'm going to be on or
+which city I'm going to be in so right
+it's too much work to unless it's really
+really important to me I'm not going to
+go to the effort of finding out okay am
+I going to be in that City on this day
+uh of the month and if I am okay I'll
+say yes right so wouldn't it be cool if
+um my calendar knows you know generally
+where I'm going to be and it takes all
+these events uh like events that maybe
+I'm not even invited to just like
+there's a seminar at Stanford uh
+tomorrow night oh I'm going to be in
+town tomorrow night oh I could I could
+do that yeah um because I generally say
+no because either I don't know about it
+or I do know about it but I don't know
+if I'm going to be in that place at that
+time so I just say no so I'd like to
+have a shadow calendar that says here's
+my calendar that I'm committed to and
+here's a shadow calendar that overlays
+that says here's other options for you
+you could choose this you can take it a
+step further too like let's say we
+communicate by email and you say yeah I
+want to meet with Mark but the next time
+we're in the same city but we don't know
+when we're going to be in the same city
+so you flag me saying tell me next time
+me and Mark are on the same city and we
+have some free time right so so tripet
+tries to do that right yeah yeah but but
+then it's contextualized in your
+calendar and you can know when I'm free
+and when I'm when you're free it's not
+just that we're in the same city but we
+actually have some free time boom we can
+tell you by the way here's a free time
+that you and Mark are free you're in the
+same city the kind of suggestive
+component that you're talking about I
+mean you know we've we've talked about a
+different use case but very much kind of
+along the same lines my calendar as an
+example knows that it's my wife's
+birthday in two weeks right um provided
+that I could tag my wife's profile and
+now we're talking contacts we're not
+talking calendar but I could add
+preferences to that profile I know that
+my wife likes at this particular store
+she likes these particular Brands this
+particular product the calendar could
+know based on my schedule that I'm
+passing as an example of Sephora I've
+got a half an hour between meetings it's
+her birthday coming up in two weeks now
+would be a perfect time for you to stop
+pull over buy that product that she
+wants um so again knowing where I am
+where I'm going where I need to be
+what's upcoming in terms of my my
+calendar um we can start to add in that
+sort of suggestive component as well
+right so this is pretty future thinking
+kind of a lot of work and um I don't
+know of anyone doing this kind of stuff
+so is this you're putting together this
+Future Vision of calendaring and what
+you could do to um as a way to get
+people interested in in calendar things
+and buy what you have today or why are
+you going so far out onto things that no
+one has ever done

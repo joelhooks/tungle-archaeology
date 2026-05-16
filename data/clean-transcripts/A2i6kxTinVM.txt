@@ -1,0 +1,168 @@
+# 20100818-A2i6kxTinVM-Robert Scoble talks Data & Semantic Relationships - A Tungle Manifesto
+
+Kind: captions
+Language: en
+the the other way to look at this whole
+thing is to do a mind shift you know I I
+interviewed Siri that have you guys have
+seen Siri right on the iPhone yeah got
+Bob by Apple yeah and I'm hearing that
+that's going to be the core of a future
+iPhone right and Google's doing the same
+thing it's an AI play though it's not AI
+but you talk to it uhuh it understands
+your language or you could poke at it
+and choose things from a menu but really
+the cool thing is you talk to it you say
+I need a taxi tonight at 8:00 p.m. to
+pick me up here at the house and it it
+understands it so and you see that it
+understood your language and then it
+uses artificial intelligence to
+understand what was he really trying to
+do you know and right and he pulls out
+the keywords and the key concepts of of
+what I was asking for and then it goes
+to web services and right now it doesn't
+have many web service it adds 40 or 50
+and it but it it brings back information
+like hey this taxi company can pick you
+up at 800m here's the confirmation
+number and here's right here's the taxi
+driver's phone number so know houses
+this address right you're bridging two
+very important Concepts that keep coming
+up for us which is the idea that um
+there's a shortage of time you never
+have enough time and there's too much
+information and we're using mobile phone
+we're using these less and less and
+mobile more and more and I hear that
+from every entrepreneur who I uh I
+interviewed open table and they said the
+mobile usage just
+just because people are out you know out
+mountain biking or something and they
+they have this brain fart hey let's go
+to dinner tonight and so they you know
+they they poke at a an app on their
+iPhone or they talk to Syria and say
+find me a restaurant and boom you know
+oh yeah these three restaurants have
+space tonight and it makes that
+reservation right from the cell phone um
+spafinder if you want spa treatment or
+the spa at the Ritz down here has a
+spafinder system that manages their spa
+and has a calendar and it's right it's
+really interesting open TBL is a
+calendar and spotfinder a calendar you
+know it's their interface in front of
+them it's like oh yeah we have slots on
+at 8 o00 on Saturday morning for you to
+come in well it's a web service so Siri
+could talk to it and say hey this guy
+wants a a spa treatment in the morning
+to tomorrow morning can you find me a
+slot there it you know it negotiates
+back and forth and then it goes oh yeah
+we found one at8 let's pull that out and
+make a reservation and that's something
+that doesn't look like a when you're
+talking to Siri it ain't looking like a
+calendar you know it doesn't look like
+that grid Although our data set I would
+imagine would be very important for Siri
+right well absolutely yeah you know and
+so imagine a world where instead of 40
+web services or so that siries right now
+talking to you know like Fandango Open
+Table um you know tax web service Pizza
+web service stuff like that what if it
+had what if it was all Apple
+applications all 250,000 of them
+automatically build an API that Siri can
+talk to and negotiate with then what
+happens to our world when we can talk to
+an iPhone and have it negotiate with
+everything in the world you know can you
+uh change my flight on trip you know and
+it knows oh he's on tripet because he
+has tripet app let's look at tripet oh
+yeah we found the flight let's go to
+united.com we know it we know his
+frequent flyer mile because he has
+United Airlines app you know and boom
+all of a sudden you create a magical
+experience is the calendar the hub for
+all of this well it sure seems like it
+because like the Spa Salon has a
+calendar that's a hub MH um you know the
+restaurant Cella has Open Table you know
+down the street and that's a hub and
+calendar right you know and what else is
+going to be a I'm going to have my
+Google Calendar or whatever you know
+whatever I find that's cool you know you
+guys might take over the world
+there we're trying you yeah and plancast
+knows where I'm going plancast already
+knows all the events I'm going to in the
+next year yeah for square knows where
+you are yeah for square knows where you
+are it's which isn't quite a calendar
+but it could be shoving stuff onto a
+calendar interface I think is the
+calendar the hub for all of this well it
+sure seems like it because like the Spa
+Salon has a calendar that's a hub um you
+know the restaurant Cella has Open Table
+you know down the street and that's a
+hub and that's calendar right you know
+and what else is going to be a cal I'm
+going to have my Google Calendar or
+whatever you know whatever I find that's
+cool you know you guys might take over
+the world
+there we're trying you know yeah and
+plancast knows where I'm going plancast
+already knows all the events I'm going
+to in the next year yeah for square
+knows where you are yeah for square
+knows where you are it's which isn't
+quite a calendar but it could be shoving
+stuff onto calar so when you add mobile
+and location everything it changes it
+changes what it you know what we can and
+social right it Chang and and Siri
+hooked that into Siri now what can Siri
+do do about that you know already
+there's a service called gobi go that
+you can say I'm here um where's all the
+hiking trails around here right you know
+and it's cool it shows it on a map you
+know um realtors.com had a map where you
+just look at the city oh I want to live
+in that part of the city you Circle it
+and it shows all the houses available in
+that part of the city right you know
+and you know and then you hook that into
+a calendar you start saying okay I I
+have five houses to look at I can't do
+all five today let's do two today well
+that's a calendar yeah you know let's do
+three tomorrow yeah and the calendar
+then has to get the realtor you know
+could talk to my realtor and say hey I
+got to look at houses tomorrow can you
+make you know these three houses happen
+that's calendar and so there's a
+calendar underneath it might not be the
+right you might not look at the grid but
+your the data is there and the assistant
+like Siri that you're talking to is
+going to make the deal with you know
+she'll talk to my you know the Siri app
+will talk to my realtor app and make a
+deal and find out that she's available
+or not you know

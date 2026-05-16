@@ -1,0 +1,410 @@
+# 20100818-sLCzKpgnJjU-Robert Scoble - Tungle Manifesto (Part 1 of 4)
+
+Kind: captions
+Language: en
+But how do we tear this down and really
+look at it with fresh eyes, right?
+There's so many different opportunities.
+Give me my iPad. Sure. iPad is an
+interesting example of how it's causing
+everything to be re reimaged.
+Yeah, you're right. Yeah. And u you play
+with the calendar, it's pretty
+boring. And uh same thing with a lot of
+newsfeed guys. Yeah. Then this Yeah,
+exactly. this company called Flipboard
+comes out and totally transforms what I
+think a a Twitter feed looks like. Yeah.
+But it's it just finds some news and uh
+you know now it's beautiful, right?
+Yeah. And you use your hand to touch it
+and that's very different than using a m
+everybody's like why can't they do this
+on Windows? It's like cuz Windows has a
+mouse, right? This is touch. This is I
+mean you can even drag it slowly. Yeah.
+And it's something about it is sensual,
+you know, it's touch, you know, and uh
+you know, you just page through it and
+it's
+design just by applying some design
+principles to something that already
+exists. It totally transforms it.
+Totally changes it. So agreed. I mean,
+it's the same information I've always
+been looking at tweet or sees or
+twitter.com. This doesn't look like
+twitter.com. Sure. No.
+You can even go and go to the
+original articles and see how ugly it
+is. It's like you eat beautiful land and
+go to ugly land. You know what's cool is
+you can see what other people are saying
+about that article as well which is
+interesting. Tweet are you using it as
+primary source now? I mean I saw you
+pull up Twitter. I don't even read
+anything else. I mean that's
+twitter.com. You know how it is. It's
+like give me a break, you know?
+And I think that that's one challenge
+for you guys is the same thing. It's
+like how do you take a fresh eye to it
+and come up with something that's that's
+a new design. You click on it zooms and
+it has pictures and it has interactivity
+and it has beauty to it, you know, and I
+miss that. I I want my time calendar to
+have the same kind of utility on on iPad
+or on Android devices.
+The other thing that we're looking I
+mean, we've talked about a couple of
+things, but kind of coming back to your
+post. So, we've got all these
+information silos out there that are
+about you, whether it be your Yelp
+preferences or your movie preferences,
+your reading preferences. The difference
+between where the calendar is now and
+where we think it should be going is
+that the calendar of the future should
+really learn your preferences,
+understand what it is that you do. Um,
+and the net net of that, the information
+flowing in is that we have a tremendous
+amount of data about your interests, who
+you are, where you spend your time. Um,
+and so it's not just about the data
+coming in, but then ultimately the
+calendar should be able to provide you
+with insight, right? So we've got all
+this data. We're running a logorithms
+behind it. You should be able to peg
+your goals. This is I want this amount
+of family time, this amount of travel
+time, right? These are the goals I have
+in terms of the way I spend my time.
+We're now looking at, you know, the
+actuals and we're measuring the
+difference. We're able to say, listen,
+for you to be most optimized in terms of
+the way you spend your time, uh, these
+are the kind of things that you have to
+do. Yeah. I like to even go a little
+simpler than that. Uh, you know, Google
+Calendar and Tungle knows where I'm
+going to be for each appointment. So,
+like right now, it knows I'm here
+because I put in Tungle is at my house
+or or I can even put an address in it,
+right? And if I'm going to be I'm in
+Palo Alto this afternoon at the
+Techrunch site this evening and
+afternoon and so why would it let
+somebody from San Francisco put anything
+on my calendar because I'm going to be
+between Half Moon Bay and Palo Alto and
+it knows that and there's a couple hours
+I'm not going to go to San Francisco in
+that couple hours you know so if if you
+guys can figure out an algorithm and say
+hey that's not really an appropriate
+time because you're in Salelo or some
+other place in the world and he's going
+to be in Palo Alto in San Francisco or
+in and Half Moon Bay and Palo Alto and
+we know that he's going to be between
+those two places and you want to go
+somewhere else. Yeah. Doesn't work.
+Yeah. find another day that you know
+he's going to be in S because there's
+other days where I am in San Francisco
+and it would be like oh it's only 15
+minute drive from that other appointment
+and and I I often you know schedule
+things and then look at and go I was
+really stupid for accepting that and and
+then I have to delete it or you know
+renegotiate. It's like I can't really do
+it on that day. I have to move you to
+this other day because I'm going to be
+in San Francisco this other day and then
+he's like oh I'm out of the country that
+day. you know, it's like, oh man, now we
+have to get back into the renegotiation
+phase. And it's almost easier to go on
+the phone and say, okay, just call me
+up, right? We'll figure it out. Well,
+there's some intelligence that we're
+looking to build in fairly quickly. Um,
+so location really being the key, right?
+Um, the calendar should know that this
+is your location, this is where you need
+to be. Add automatic buffers onto your
+meetings, right? Because just because
+the meeting ends at 2 o'clock doesn't
+mean you can accept at 210. Yeah. Right.
+um and kind of getting that sort of
+proactive data into the calendar. And
+the same thing goes, you know, we had
+meetings with Navtech. Yeah. To talk
+about um you know, location data also
+and points of interest and this kind of
+thing. Um the calendar should know that
+there's traffic and that what would
+normally be a 20-minute drive today is
+going to be 45 minutes, right? And
+prompt you to leave early um and bring
+feeds in that are going to help you be
+more productive and more efficient.
+Yeah. The other thing and I have a weird
+job so it's it's gonna be hard to
+translate this to other people but I go
+around the world and interview tech
+people right and I find I can do two
+maybe three interviews if I'm doing
+three every day right I'm burned out
+right I it's too much so the way I solve
+that is to just cut down the number of
+hours that I'm available but that's
+stupid because
+I sometimes that second interview can
+only happen at night so now I have to,
+you know, somebody's like, "Your
+calendar is booked for the next three
+weeks because I blocked it all off, you
+know, and now how do I get on there for
+tomorrow night because I have something
+sp like Saturday night, I'm actually
+interviewing somebody because they have
+an extraordinary iPad app coming out."
+And it's like, okay, I want to see this.
+I don't want to wait five months for to
+see it. And so I stick them in there,
+but I had to do that manually and off
+off the tongi grid, right? It'd be nice
+to say, you know, is this an interview
+or is this a sushi dinner? You know,
+these are the type these are the types
+of meetings that I'm willing to break
+the rules for. Right. Well, that's one
+thing, but other thing is, hey, I've
+already filled up my two two interviews
+for the day, so I don't want to I don't
+I can't do anymore, but I want to keep
+the day open for other kinds of things,
+you know, you know, this kind of stuff,
+right? I mean, this isn't really an
+interview. You could send people to one
+page if it's interviews and another page
+for social stuff, but but then you know
+if if it gets booked there, it's no
+longer there for people to be able to
+pick from. That makes sense. So have
+different types of likes or profiles or
+Right. And or I can block out Yeah. Or
+even I can block out, you know, and for
+PR people I can block out a certain kind
+of Yeah. And for my wife, she gets
+different, right? It's uh yeah, that
+makes sense because she she's allowed to
+book me, but it's it's hard to do that
+simply and the iPad told teach, you
+know, Apple's teaching us if you have
+too many features and you put too much
+crap on the calendar and you lose it.
+You lose, you know, any beauty that
+you're going to have. That makes sense.
+Then everybody's like, I'm not going to
+use that. It's too complicated. And so
+that's a an interesting challenge you
+guys face. How do we fit more features
+that solve these weird use cases, but
+keep it simple and intuitive? And yeah,
+how do you how do you make it so that
+everybody goes, "Man, that's cool." One
+thing that we we played with is that you
+could you you put in your CC or BCC, you
+know, the the name of, you know, an
+assistant, like call it Betty at Tumble,
+whatever. And and so you're replying to
+the person saying, "Okay, yeah, I'd be
+willing to meet with you. How about we
+set up some some time between Friday and
+Saturday in the evening or something? So
+you can actually textualize it or or
+whatever. And what happens is Tungle can
+interpret what you do and actually send
+the invitation out with the proposed
+time based on your knowledge of your
+calendar and then the person can just
+pick a time within the parameters that
+you did. So you didn't have to change
+any of your habit. You just added
+someone in a CC or BCC which is actually
+a robot kind of thing. Yeah. The the
+other way to look at this whole thing is
+to do a mind shift. You know, I I
+interviewed Siri. Have you guys have
+seen Siri, right? On the iPhone got
+bought by Apple. Yeah. And I'm hearing
+that that's going to be the core of a
+future iPhone, right? And Google's doing
+the same thing. It's an AI play though.
+It's an AI, but you talk to it. Uhu. It
+understands your language or you could
+poke at it and choose things from a
+menu. But really the cool thing is you
+talk to it, you say, "I need a taxi
+tonight at 800 PM to pick me up here at
+the house and it it understands it." So,
+and you see that it understood your
+language and then it uses artificial
+intelligence to understand what was he
+really trying to do, you know, and right
+and he pulls out the keywords and the
+key concepts of of what I was asking
+for. And then it goes to web services.
+And right now it doesn't have very many
+web services. adds 40 or 50 and it but
+it m it brings back information like hey
+this taxi company can pick you up at
+8:00 p.m. Here's the confirmation number
+and here's right here's the taxi
+driver's phone number. So here and it
+knows the house is this address, right?
+You're bridging two very important
+concepts that that keep coming up for us
+which is the idea that um there's a
+shortage of time. You never have enough
+time and there's too much information
+and we're using mobile phone. We're
+using these less and less the mobile
+more and more and I hear that from every
+entrepreneur who I mean I interviewed
+Open Table and they said the mobile
+usage is
+just because people are out you know out
+mountain biking or something and they
+they have this brain fart. Hey, let's go
+to dinner tonight. And so they, you
+know, they they poke at a an app on
+their iPhone or they talk to Siri and
+say, "Find me a restaurant and boom, you
+know, oh yeah, these three restaurants
+have space tonight." You know, and it
+makes that reservation right from the
+cell phone. Sure. Um, spa finder if you
+want a spa treatment or the spa at the
+Ritz down here has a spa finder system
+that manages their spa and has a
+calendar, right? It's really
+interesting. Open Table's a calendar and
+spot finder is a calendar. You know,
+it's their interface in front of it's
+like, "Oh yeah, we have slots on at 8:00
+and Saturday morning for you to come
+in." Well, it's a web service. So Siri
+could talk to it and say, "Hey, this guy
+wants a a spa treatment in the morning,
+tomorrow morning. Can you find me a slot
+there?" And it, you know, it negotiates
+back and forth and then he goes, "Oh
+yeah, we found one at 8. Let's pull that
+out and make a reservation." Mhm. And
+that's something that doesn't look like
+a when you're talking to Siri, it ain't
+looking like a calendar, you know, it
+doesn't look like that grid. Although
+our data set, I would imagine would be
+very important for Siri, right? Oh,
+absolutely. Yeah. You know, and so
+imagine a world where instead of 40 web
+services or so that Siri is right now
+talking to, you know, like Fandango,
+Open Table, um, you know, a taxi web
+service, pizza web service, stuff like
+that. What if it had what if it was all
+Apple applications, all 250,000 of them
+automatically build an API that Siri can
+talk to and negotiate with? Then what
+happens to our world when we can talk to
+an iPhone and have it negotiate with
+everything in the world, you know, can
+you uh change my flight on trip, you
+know, and it knows, oh, he's on triet
+because he has the triet app. Let's look
+at triet. Oh, yeah. we found the flight.
+Let's go to united.com. We know it. We
+know his frequent flyer mile because he
+has United Airlines app, you know, and
+boom, all a sudden you create a magical
+experience and and but it falls all the
+way down the funnel, right? So, you make
+this change with Tripid and now we see
+you've moved your flight an hour. You
+got to start moving meetings. You got to
+start moving your car service and Right.
+So, all of that has to that
+reshuffleling has to happen dynamically.
+Yeah. But do we you we may be too close
+to the glass, right? So, but that you
+know the question that we're asking
+ourselves is is the calendar the hub for
+all of this? Well, it sure seems like it
+because like the spa salon has a
+calendar that's a hub. Um, you know, the
+restaurant trella has open table down
+the street and that's a hub and that's
+calendar, right? You know, and what else
+is going to be a count? I'm going to
+have my Google calendar or whatever.
+Yeah. you know, whatever I find that's
+cool. You know, you guys might take over
+the world there.
+We're trying. I will. Yeah. And Plancast
+knows where I'm going. Plancast already
+knows all the events I'm going to in the
+next year. Yeah. Foursquare knows where
+you are. Yeah. Foursquare knows where
+you are. It's which isn't quite a
+calendar, but it could be shoving stuff
+onto a calendar interface. Our thinking
+about the four square data is it's also
+um it's data that would drive a
+predictive engine, right? Or a
+suggestive engine. So, uh you bring in
+your four square feet into the calendar
+now knows where you're checking in over
+the past whatever 30 60 90 days. Yeah.
+Then when you need that restaurant
+suggestion for a lunch meeting, very
+likely that the four square data will
+know where the best bet is, right? Where
+you should be. Yeah. And I I mean I just
+started mountain biking, you know, and
+um I have cycle meter, I think is the
+app I use on my iPhone. I'm trying out a
+bunch of different ones, but it's a
+calendar. It's a map and a calendar with
+a bunch of information about how fast I
+was going. Really, right? Oh, it's
+great. And you know, you share it on
+Facebook. It's so interesting because
+it, you know, while you're riding it
+because it tells Facebook, Scoville just
+started a ride, right? And then it goes
+to Facebook and my friends comment on
+Facebook and say, "Oh, great job,
+Scubble. You're exercising fun." And it
+reads those those comments to me while
+you're on your while I'm on my Come on.
+For real. For real. Wow. And you know,
+and it's making a map. So every five
+minutes they get to see how far I've
+gotten. They can urge me out, you know,
+go further, man. That's awesome. Don't
+piss out
+yet. You know, that is cool. It's cool.
+And so when you add mobile and location,
+everything it changes.

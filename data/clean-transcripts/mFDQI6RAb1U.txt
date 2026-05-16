@@ -1,0 +1,103 @@
+# 20100818-mFDQI6RAb1U-Don Dodge talks Life, Optimized - A Tungle Manifesto
+
+Kind: captions
+Language: en
+so as an example i just had a press
+meeting in san francisco
+from uh noon to one
+and okay cool but i forgot to put in the
+travel time to get from here to there
+and to get from there back
+so on my calendar i just put twelve to
+one or no i didn't even do it i was sent
+an invitation right so you just click
+this i just clicked it and accepted it
+okay cool right no trouble the person
+who's sending me the
+the calendar invite doesn't know that i
+need travel time to get there to there
+so
+something should have prompted me to say
+okay when you click accept
+now do you have travel time that you
+need to enter around this thing because
+i just clicked accept and moved on to
+the next thing or it could have been
+intelligent enough to know by location
+yeah where you are and then be able to
+do that
+buffers buffers should really be
+automatic right because again no
+starting destination we know ending
+destination right and so we should be
+able to say to you this one hour meeting
+is really going to cost you an hour and
+a half
+right because we're allocating 15
+minutes to get there and 15 minutes to
+get back so in theory you're not free
+and one you're free at 1 15 130. right
+right so buffers are something that uh
+you know microsoft calendar doesn't
+handle
+no calendar handles
+so if they're a way to prompt for
+buffers because they're absolutely there
+aren't always buffers sometimes you know
+phone calls and it's fine that it's
+back-to-back absolutely yeah so
+that would be a help to
+prompt people to put buffers in
+the other big calendar thing are the
+things that are rolling yeah okay the
+other big calendar issue i see is the
+difference between my personal calendar
+my family calendar my work counselor
+yeah right so you have all these
+different calendars to manage and my
+wife has things that she puts on her
+calendar that i don't know about and
+so sinking calendars i don't know that
+that's in your domain but you know it is
+an issue with talent
+so here's another thing that may be
+unique to me because i'm a bi-coastal
+kind of
+i live in boston and i work in mountain
+view so i'm on either coast
+um i get
+invitations to
+conferences and events and parties and
+meetups and
+all kinds of stuff all the time and i
+usually say no because i don't know if
+i'm going to be there or not which coast
+i'm going to be on or which city i'm
+going to be in so
+it's too much work to
+unless it's really really important to
+me i'm not going to go to the effort of
+finding out okay am i going to be in
+that city on this day
+of the month and if i am okay i'll say
+yes right so wouldn't it be cool if uh
+my calendar knows you know generally
+where i'm going to be
+and it takes all these events
+like events that maybe i'm not even
+invited to just like there's a seminar
+at stanford
+tomorrow night oh i'm going to be in
+town tomorrow night oh i could i could
+do that
+because i generally say no because
+either i don't know about it or i do
+know about it but i don't know if i'm
+going to be in that place at that time
+so i just say no
+so i'd like to have a shadow calendar
+that says here's my calendar that i'm
+committed to and here's a shadow
+calendar that overlays and says here's
+other options for you you could choose
+this and you can take a step

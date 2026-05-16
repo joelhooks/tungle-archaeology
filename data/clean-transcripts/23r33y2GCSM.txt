@@ -1,0 +1,170 @@
+# 20100818-23r33y2GCSM-Ed Brill on Transparency - A Tungle Manifesto
+
+Kind: captions
+Language: en
+yeah and there's still a lot of
+companies that we sell to that you know
+you put up a a screenshot of a a user's
+profile on tongle and they go oh wait a
+second that's got all my stuff on it
+right I had that reaction when I did a
+demo of tongle at one of our our
+conferences in May and so I've started
+doing my demos now logged out of tungle
+and I I eventually log in right but um
+so there's still a lot of companies that
+are real paranoid about where is this
+data going um especially remote devices
+blackberries and iPhones and that and
+it's an interesting issue because if I
+am in a company that you know decides
+one day I don't need you know I'm not
+needed anymore and they go do a remote
+wipe my personal data is probably on
+that device too and I just I had no shot
+to get to it right so there's all sorts
+of interesting implications of who owns
+my data in email I get that right in
+email yeah okay fine I left the company
+you want your email back no problem but
+the calendar the calendar is kind of
+like me right that's me as an individual
+so there's definitely some issues that
+haven't really been worked through yet
+and that people are going to struggle
+with and how do you think it's going to
+evolve I think that um I think having
+aggregation points I think having redund
+data I mean you know that's great they
+can wipe my Blackberry but it's it's on
+tongle right now so I know that I've got
+a copy there I just hope that nobody
+goes and sinks in overwrites it
+tomorrow but um I think redundant data I
+think overlays you know publishing
+through caldav and things like that some
+of which we have to catch up on
+admittedly you know give people some
+ability to own their own data around
+their own self and overlay that and
+marry it with their professional
+environment um but I think that Line's
+very very blurry and I don't expect
+we're going to move to any point of
+clarity I think the natur nature of work
+has changed so much that trying to keep
+your work life and your personal life
+completely separate and secure from each
+other in 2015 we won't even think about
+that concept interesting and so if you
+look at um you know back when it was
+client server you've had you know your
+company had your your data on their
+server and and then then it start to
+migrate towards the web right what were
+some of the privacy concerns back when
+it started actually there it's still now
+it's still there yeah yeah but but okay
+so so what were the challenges and some
+of them have already been brought down
+like if you look at Salesforce I think
+you know Salesforce has done a good job
+in educating people that the cloud is is
+is safe right yeah I mean we're we're at
+a point where not every everybody's
+bought in right we did a survey with um
+one of our resellers 600 people filled
+it out in the last few weeks more than
+half the participants in the survey said
+we'll never do anything in the
+cloud you know yeah it's 2010 right so
+are those banks are those government
+agencies are those insurance companies
+are they manufacturing you know I don't
+I haven't gone and looked at that data
+yet but half of them just said no no
+Cloud period but the other half were
+like oh yeah Cloud's an inflection point
+great opportunity for us we want to do
+more and it's the pervasive access it's
+the fixed cost of operation I mean
+there's all the all those benefits so I
+think there are still many many issues
+that companies need to get their heads
+around of okay my data is going to live
+somewhere else and that's okay but what
+data is it that's going to be okay if it
+lives out there um we look at in in the
+email world in the archiving space right
+there is the traditional on premise you
+know heavyduty IBM common store kind of
+content management stuff that is really
+secure and really well managed and then
+there's in the cloud archiving providers
+like aonian who are just treating it
+like any other data feed that's going to
+go live on an Amazon server and with the
+right passwords and other authentication
+you're going to get to it so it's a risk
+factor thing and a lot of companies that
+are you know risk adverse are not going
+to go there a lot of companies that say
+the trade-offs are worth it like many uh
+decisions about sort of web 2o in
+general right now are going to say this
+is okay for us we know the risks you
+know the users in control or we as as an
+entity are still in control enough that
+this is okay but you still find plenty
+of people that in 2010 aren't ready to
+be on Facebook aren't ready to be on
+LinkedIn aren't ready to be on Twitter
+those are the kind of people that
+probably are still not ready to have
+their corporate data living out in the
+club on the other hand there is
+Salesforce there is Google Apps there is
+lotus live um you know and companies are
+hungry for that kind of you know SAS
+business model and are willing to accept
+the risk to get the the benefit of
+predictable service always upgrading uh
+fixed cost and you know sort of all the
+other benefits so I think privacy is a
+concern but I think there's a lot of
+other pieces to The Mex you know um and
+then I think the other question that
+really has to be answered is how much
+sharing do I end up doing I think in
+most companies still people don't make
+their calendar wide open they don't let
+people see what they're working on and
+there has to be a way to make that
+socially acceptable in the company just
+like it has been to share my documents
+and share my knowledge right CU I mean
+we've gone down this curve in in
+collaboration in general when we started
+shipping nodes 20 years ago we had to
+teach companies why it would be good to
+share the information that everybody had
+in the company most companies were my
+knowledge is my value to the company and
+so our first notes customers actually
+had to put incentive programs in place
+for humans to get compensated for
+putting stuff into notes
+databases it's kind of the same with
+calendars I still don't really feel
+comfortable telling people what am I
+spending my time on every day my own
+staff though probably could really
+benefit from seeing which customers I'm
+meeting or what projects I'm spent
+choosing to spend my time on what are my
+priorities more then at a once a month
+staff meeting or whatever so there's
+still a cultural barrier and I see that
+in lots of our customers and I think it
+just stems from the personal nature of
+caliber

@@ -1,0 +1,30 @@
+# 20100611-p26KBiedYaY-Tungle.me： How to sync with Tripit
+
+Kind: captions
+Language: en
+to sync your TripIt calendar you'll need
+to get your unique calendar URL
+here's how to do it
+sign in to TripIt and go to your trips
+tab
+click calendar integration from the menu
+select subscribe to calendar feed from
+the pop-up and copy the URL it gives you
+now sign into tungle me go to management
+and then select synced in the menu
+click add new calendar and contact sync
+source select TripIt from the pop-up
+name the calendar
+and paste in the URL that you copied
+from TripIt
+click add source
+your TripIt calendar is now synced
+note that the telomy sync with TripIt is
+read only
+that means you'll be able to see your
+trip at events in telewomi and your
+availability will be updated as you add
+new events to TripIt but tungomi will
+not be able to add new events booked
+through tungle me to your TripIt
+calendar

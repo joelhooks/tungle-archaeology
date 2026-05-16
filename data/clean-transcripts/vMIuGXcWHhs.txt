@@ -1,0 +1,31 @@
+# 20100923-vMIuGXcWHhs-Tungle.me： How to edit meetings
+
+Kind: captions
+Language: en
+You can edit pending or booked meetings
+in TungleMe. Here's how. First, make
+sure you're on home in the top menu.
+Then, select manage meetings from the
+left. Here, you'll see a list of your
+pending and booked meetings.
+Let's start with a pending meeting. We
+select the event and see our editing
+options below. If you simply want to
+cancel the meeting, click cancel.
+If you want to make changes, click edit
+this meeting.
+Here you'll see your editing options.
+You can change the meeting subject, add
+or remove invitees, or change your
+proposed times.
+Let's add some new times to our proposed
+ones.
+Once you're happy with your changes,
+click save changes.
+Now let's try a booked meeting. We go
+back to manage meetings
+and select the meeting from the list.
+Here your editing options are to cancel
+the meeting, change the date or time,
+change the location,
+or add or remove invitees.

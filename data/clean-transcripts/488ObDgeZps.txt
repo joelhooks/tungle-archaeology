@@ -1,0 +1,410 @@
+# 20100817-488ObDgeZps-Don Dodge - Tungle Manifesto (Part 2 of 3)
+
+Kind: captions
+Language: en
+you know one of the things that we've
+discussed also is if you take a look at
+all the calendar applications out there
+um you're pretty much looking at a
+situation of brand parity you pull off
+the logos and you're talking about very
+similar feature functions yeah
+um you know everybody's worried about
+their own platform and their own
+audience and so
+you know for us it's an opportunity to
+say okay well you know scheduling has
+kind of bled a little bit into the
+calendar space and if we're gonna go
+there what are the differentiation
+points right the world doesn't need
+another calendar
+it could use a tool to Aggregate and it
+could use it could use an intelligent
+calendar that's a little bit more
+evolved but
+um you know how do we make a difference
+how do we change the product because it
+hasn't changed in thousands of years
+yeah yeah well analytics I think is the
+near-term thing that everyone could use
+and it's not that hard to do but no one
+has done it that's right
+um so I think zodney really opened my
+eyes on that part of analytics of email
+because again you're in the email every
+single day and you're on top of it and
+you're responsive and you think you know
+but until you see those analytics and
+you say oh my God I didn't realize that
+yeah
+these five people are the you know 80 of
+my time of who I'm sending email to I
+think if you did the same thing to a
+calendar
+to know where you're spending your time
+yeah that would be huge absolutely and
+if there are you know I'm not that into
+this stuff but like uh uh who is it
+Franklin is the calendar Franklin
+planner Franklin Planner yeah they have
+some interesting kinds of uh
+ways of
+analyzing what you do and thinking about
+what you do and there's another
+what is this metrics thing about uh
+there's some metrics thing about getting
+stuff done
+what it is but anyway it's an entirely
+separate thing but if you took those
+Concepts and applied those to analyzing
+your calendar
+you know eye-opening kinds of things I
+want to shift gears for one second and
+you know again it's a conversation we've
+had and I don't want to
+um I don't want to let you think for a
+second that we're basing our model at
+all on Advertising but there's something
+very unique happening on the calendar
+which is that when we kind of looked
+look at
+ad revenues advertising contextualize
+advertising one of the things that's
+most interesting uh when we look at the
+Spectrum of say a plan cast on one end
+the Declaration of intent and Foursquare
+on the other well Foursquare is I'm here
+now and it's just too late there's
+nothing you can really do on calendar
+once you've put something into the
+calendar you've declared your intent to
+be somewhere in the future that's the
+greatest single opportunity for anyone
+to talk to you you've got the greatest
+disposable income and you're about to
+move down the funnel to Here and Now
+right and so from the perspective
+strictly of advertising contextual
+advertising uh marketing you've got a
+goal of mine there right if you're able
+to open and unleash that data set you're
+really providing something to marketers
+which is unique I think right it's this
+um I'm going to be there in the future
+I'm going so if you take a look at
+Travel for a second and just kind of a
+process on travel I get permission from
+Mark I'm going to go travel the next
+thing I do is I slot it off my calendar
+I block off some time I may then push it
+out to my social network to let people
+know that I'm going to be in a
+particular City at a particular time but
+then the funnel begins right I need
+airline I need Hotel I need a car I need
+a whole bunch of decisions that I'm
+making and every step along the way I'm
+spending some money the only people that
+really have visibility into that entire
+flow are the guys who are holding the
+calendar because that's the insertion
+point yeah any thoughts there yeah
+TripIt tries to do that uh with travel
+so that it has your Airline reservation
+your rental car your hotel your
+everything all in one spot
+but for me I'm a calendar guy so I would
+rather go to my calendar and see there's
+my rental car reservation number there's
+my hotel reservation and there's my
+flight because I want to be on my phone
+right and just click on the calendar and
+see everything at all everything there I
+don't want to have to go to email and
+search for the vendor for the particular
+vendor and find out okay which because
+if I do a search on Hertz I've got 30 of
+them right and I gotta figure out which
+one is it that's that one or you know
+that kind of stuff so TripIt tries to
+aggregate that data for trips in a
+separate application I don't want to go
+to a separate application I'd rather
+have it in a calendar so you know
+there's a way to do that awesome
+but there are some of these things that
+really are the responsibility of Outlook
+or Google Calendar or a Yahoo calendar
+right they're not
+do you think that you can
+overlay these features or somehow add
+these prompts or
+is it they're doing it provided that
+weakness and provided that we can build
+the right user base of course
+um I think we can I think that you know
+again a lot of these prompts and these
+notifications and these suggestive
+components are an amalgamation of
+different data sources
+so I think we're in a good position to
+be able to do that even as you look at
+tongle now it's an adjunct to a core
+calendar right it's a no point is it a
+replacement to any of the you know
+primary calendaring systems out there
+and so when we talk about all these
+things again at a very high level I
+think they're modules they're bolt-ons
+to what we know as kind of core calendar
+right you know anyone here has the
+intention
+um
+or is presumptive enough to believe that
+we're going to take on a Google Calendar
+or an IBM nodes or an iCal or what have
+you yeah right user bases are installed
+of all the things and hence we can
+enhance the experience of all the things
+we've talked about the thing that
+excites me the most is analytics on how
+I've spent my time and then maybe goal
+setting about how I want to spend my
+time in the future and the calendar sort
+of sets these goals about hey you said
+you wanted to spend 20 of your time on
+this so slot it in there and you know
+then or maybe it kind of graphs out how
+you'd like to spend your time and maybe
+it's color coded or something I don't
+know right and then you start
+inputting specific meetings and
+schedules and and then you see if you're
+meeting your goal or not to me the the
+little hanging fruits are analytics of
+your past but also giving you tools for
+for your future but not just what you
+talked about for example I'm going to be
+meeting with Jonathan I never met him in
+the past and I so I don't know him but
+my calendar knows I'm going to be
+meeting all these people so all of a
+sudden I can start looking at their
+Twitter feed and I can start looking
+about their LinkedIn profile and all
+this stuff that's publicly available
+Jonathan so I get to know him before I
+actually meet him so when I'm talking to
+him I can know that he I don't know he
+walked his dog yesterday and whatever
+happened and I can start a conversation
+with him he's gonna go ah you actually
+know me a bit more and so there's tools
+that we can do also in the short term
+that are really useful for future future
+meetings that you may have the other
+thing I think is a low hanging fruit is
+everything about location
+the meeting buffering you know we've got
+locations we know you're going to San
+Francisco you know the the you're gonna
+need a car maybe those to me is maybe a
+step two you know the the reservations
+and so on but the first one is the
+buffers between meetings so we're
+actually intelligent when you're
+actually going to be clicking on except
+for a meeting says hold on you may not
+want to do that because you may need
+some travel time for this and then it
+actually gives you Suggestions by the
+way we know Jonathan is going to be
+freeing in an hour you'll have more time
+you should probably pick that one so
+there's a lot of intelligence that we
+can bring through the location uh part
+of it
+um that's great and and also I mean
+building the aggregator of information
+to me is really really strong there's so
+much we can do from that because you've
+got all the sources of the calendar then
+you've got you know if we start
+aggregating the FourSquare check-ins we
+start aggregating any information that
+you want you want to put in your
+calendar and we can start analyzing that
+and so for us being this source of
+aggregator of information no matter
+where it's coming from and providing you
+valuable information around that is huge
+and that's around analytics but there's
+a lot that goes behind capturing all
+this data yeah okay data leads to
+Insight right yeah yeah it does so yeah
+analytics should be number one
+absolutely
+um and then prospective going forward
+how you manage your time you know that
+would be great yeah overall I think you
+guys are really smart to do this because
+there are other scheduling companies out
+there and I think you said the checklist
+is all about the same yeah this really
+differentiates you and puts you in a
+thought leadership position and then
+just because you're a thought leader and
+the Visionary you're going to get more
+than your share of the business even
+though features might be the same right
+so it's it's great it's a good idea yeah
+so we've got we've got a lot on our
+plate and the the other the other
+important facet to to also keep our mind
+around is our own privacy
+right and we're we're already pushing a
+bit the envelope where where we're
+saying to people
+display on a page the times that you
+want to make yourself available now
+we're giving you the tools to really
+manipulate that the way you are so
+you're not exposing your calendar like
+people are used to pre-busy calendar
+it's like you're actually seeing times
+that you're available so we've kind of
+already flipped it and saying don't show
+the times that you're busy show the
+times that you want to meet people yeah
+but but then we we then again push the
+envelope a bit more where we said let's
+create a directory with this and allow
+people to join this directory and so
+with that we got actually we're
+surprised we think you know people would
+opt out of this thing and are not opt in
+we got 85 percent of our new users are
+are joining our directory wow it's huge
+so people are saying you know what I'm
+comfortable enough with this information
+that I'm going to publish it and also
+not only publish it make it available
+and indexable by Google search and so on
+and so people are doing that and so
+there's other things that now we're also
+pushing the envelope where we're saying
+there are some of your events that you
+actually want to make public
+and so yeah you've got the podcast and
+all that but you know what you're in
+your calendar you're gonna go at uh
+Capital gross uh or the the thing Tech
+crunch thing on Friday you want people
+to know about it boom you can make it
+public and also you can tweet it out to
+people and so on so so that
+functionality already exists today but
+the point is we're also pushing the
+envelope on privacy and so on and so the
+challenge that we have as well is how do
+we get Enterprises larger old school
+financial institutions and so on to
+start embracing this and so uh it's
+really being embraced by the tech
+companies like Google we have a shitload
+of users from Google you know all the
+tech companies are using our stuff how
+do we get it to to the mainstream and so
+I don't know if you have some thoughts
+on that but you know because it's a
+different framework right it's a yeah
+yeah it is we often question is we're
+out kind of talking to prospects whether
+or not uh this is a generational divide
+cultural divide I'll give you an example
+as we go to talk to organizations
+typically what we'll see is kind of a
+bottom-up Groundswell right so you've
+got middle management that have adopted
+our product that are comfortable with
+kind of the outward facing calendar come
+and choose your time slots here's my
+availability as you look top down more
+senior Executives and c-suite they're
+much more much less inclined to be
+comfortable with that kind of thing
+there's still more accustomed to privacy
+even more accustomed to this kind of
+Garden Wall environment
+um and so it's partially our
+responsibility to make them comfortable
+with the technology to let them
+understand that there's permissions
+right and that they can open or close
+the floodgates as much as they want but
+it's something that we're dealing with
+on an ongoing
+certainly I know you guys have dealt
+with your share of privacy issues I mean
+is there a comment that you can make in
+terms of your understanding of where
+we're we are and
+the way that the market is receiving
+that
+um well I think the pain point is high
+enough that if the pain is high enough
+that people will do anything to solve it
+and privacy is the least of their
+concerns when you know they're trying to
+solve a pain point so
+um
+privacy is way over uh overdone as far
+as I can tell I mean it's a nice topic
+to talk about but the reality is
+people generally don't care you know I
+think you have a unique Viewpoint
+because one of the things that we notice
+is the community here is very insular
+yeah right and so when you talk to the
+valley folk the idea of privacy is kind
+of kind of becomes ridiculous right we
+need open transparent lives right uh
+move back to kind of the Northeast and
+you get a little bit of a different
+flavor uh because you're by Coastal
+you're you've got that perspective of
+okay I understand what the Valley
+Community looks like but I also
+understand what white collar Boston
+yeah well even me you know I'm big on
+Facebook and Twitter and blogging and
+photo sharing and all that stuff so
+share share share Foursquare make is
+creepy that one that's where I draw the
+line why because uh there are very very
+few people that I want to know where I
+am all the time I don't mind on Twitter
+if I say hey I'm at the Kenny Loggins
+concert or hey I'm in I don't mind doing
+that but I do mind uh because that's me
+opting to do that that's giving
+everybody ability to keep tabs right
+when you do Foursquare then it's like oh
+now I've got to remember who is
+following me on Foursquare so when I do
+this who's going to know that right
+um where I am yeah so that one's a
+little creepy and on Foursquare I only
+accept people that that my inner circle
+that I really really know I have
+hundreds and hundreds of Foursquare
+invitations that I just know yeah but
+let's use Facebook as an example sorry
+you've got a family and a human
+um pictures of your family on Facebook
+you've got some very personal things
+um are you accepting business contacts
+there absolutely you are so you're open
+that way yeah so it's really the
+question of where am I now

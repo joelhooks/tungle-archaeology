@@ -1,0 +1,42 @@
+# 20101027-YplD9gEbEC4-How to Meet with Groups in Tungle
+
+Kind: captions
+Language: en
+to meet with one of your groups in
+tungle Click the contacts
+icon and select
+groups select the group you want to meet
+with to see their schedules
+overlaid click schedule a
+meeting and when you arrive at the
+invite step you'll see that all your
+group members have already been
+added if you want to let someone else
+meet with your group
+return to the contact
+Section Mouse over the group
+name and copy the
+URL this URL is a custom page that shows
+the overlaid availabilities of everyone
+in your group and lets others request
+meetings with you in your
+group and finally you can create group
+pages on the Fly
+simply enter your tongle me
+URL and add other URL extensions
+separating them with a
+comma for
+example I can add two of my coworker
+URLs to mine like
+this and I have an instant group page
+that I can send out to others or use to
+schedule a meeting
+myself if I need to include someone who
+isn't a tongle me member I simply add
+their email address to the
+URL like
+this their availability won't be shown
+in the calendar view but they will
+receive any meeting invitation sent
+through this page and will be able to
+reply without signing up

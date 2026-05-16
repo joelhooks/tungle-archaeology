@@ -1,0 +1,185 @@
+# 20100303-a_AQHLF-DlY-Tungle BlackBerry Beta tutorial
+
+Kind: captions
+Language: en
+hi my name is jaku and i'm director of
+product management at tungle and today
+i'm going to give you a short tutorial
+on the
+fungal blackberry beta
+so you've received a link to download
+the the dongle app and once you've
+installed it you'll have a toggle icon
+on your home view
+so to launch the app you just click on
+the icon and it's going to bring you to
+a cyan prompt
+if you're an existing tungle user you'll
+be able to enter the same credentials
+here if you don't
+already have an account just click on
+the register
+fill out the form and you'll be able to
+get an account free account so
+for now we'll just
+sign in here
+that's going to log me in with the same
+credentials as a regular tango dot me
+website
+the first time you launch the app you'll
+see a tutorial um for now we'll skip it
+but please
+go through it and send us feedback
+whether it's meaningful uh too long
+definitely not too short
+and how it could be improved if needs be
+so for now i'm going to skip it
+first time also you're going to be asked
+if you want to sync so you pick whether
+you want to sync contacts and the
+calendars you want to sync with us
+and once you click on sync now it's
+going to uh upload those contacts and
+calendar to uh dongle
+may take a few minutes if you have a few
+thousands contact and calendar events
+otherwise it should be done in a matter
+of let's say 30 seconds or so
+so in my case it's almost
+done
+and
+so
+now i'm ready my contacts have been
+synced with tungle as well as my
+blackberry calendars
+so you're brought to what we call the
+home view so here
+on the top section
+and once it's uh it's downloaded from
+toggle you'll see your uh meetings for
+the day
+so the first time you run the app it
+needs to download them
+uh later it will cache them
+when you click on the top section it
+will also show you uh your dongle
+meetings
+so these meetings are actually uh taken
+from my blackberry calendars where i
+uploaded to dongle and now i'm
+retrieving them if my tunnel accounts
+will sync with my outlook or from my
+form or my mac for instance those events
+will also be displayed here
+okay
+the contacts
+section is used to
+show your
+your colleagues calendar so
+again the first time you launch the app
+it will retrieve your calendars uh it
+may take a few minutes a few seconds the
+first time
+but let's see
+in this case
+so now it's updating the busy status
+you'll see once they they appear that
+those that are green means they're
+currently available according to their
+calendar those that are
+are red are currently busy so let's see
+uh calendar of sharing buddy nicholas
+for instance he will retrieve
+his
+calendar
+so it's coming
+by the way you can share previously only
+or meeting details so when you share
+meeting details you have the the subject
+of these meetings
+so uh by the way you can share uh across
+platforms uh so blackberry to outlook to
+mac without problem to google the same
+thing
+so now let's go through uh the schedule
+meetings
+so
+to use this uh this feature you click on
+schedule meeting it will show you a
+residential
+view of your calendar
+so to pick participants you go here
+use a search
+and if this person happens to be a
+tunnel sharing contact you'll also see
+their availability
+the proposed time you just click
+on the cell
+let's propose a bunch of times and
+remember uh the more time you propose a
+better chance the meeting gets booked
+and also if you're synced
+whatever times that you've proposed if
+your calendar change your availability
+will be automatically updated so no
+chance of double booking
+if you want you can change the view
+with filters by default it's working
+hours and if you're too lazy to propose
+time you can also use the dongle suggest
+basically it will create a server for
+available times for the participants so
+once you're done you click on next
+you enter the subject location message
+you send it and it's going to send
+emails to all the participants
+so let's cancel it for now
+uh from the management uh section you'll
+be able to see all of your
+dongle pending meetings as well as the
+upcoming book meetings
+and finally in the action section action
+item section you'll see a sharing
+request that you've received
+where we can access
+or decline from here
+last tab is the options
+this is where you control what calendars
+or contacts to be sync
+also the frequency so by default the
+calendar will calendar and contacts will
+be synced both ways to width on goal
+every 10 minutes
+you can force the syncing from here and
+if you're having network problems you
+can also change to a different network
+from here
+so uh last thing but probably the
+coolest we also integrated with your
+email so let's say you have an email and
+you want to schedule a meeting with this
+email to to discuss the subject of it so
+what you do you just left click
+schedule with tango it's going to launch
+the app and
+automatically fill the list of
+participants with those that are in the
+2 and cc of the email
+so bear with me a second here
+yeah it's taking a bit of time
+okay
+so as you can see frederick was the uh
+one of the participants and uh if he was
+a tumble user i will also see his
+availability here if you share it with
+me
+so the same thing is available also from
+the uh your address book
+so basically uh that's it that's the uh
+short tutorial of tango
+let us know
+if you have any problems feedback
+suggestions
+and i will be glad to help you thanks
+bye
+you

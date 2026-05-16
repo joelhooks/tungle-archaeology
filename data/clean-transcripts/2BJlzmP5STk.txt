@@ -1,0 +1,392 @@
+# 20100817-2BJlzmP5STk-Ed Brill - Tungle Manifesto (Part 2 of 4)
+
+Kind: captions
+Language: en
+yeah so actually that brings in an
+interesting point like what what's the
+delimitation between your business life
+and your personal life and in can are
+from your space are people using
+different calendars like how like what
+how's that work out yeah it's a it's I
+think one of the interesting challenges
+of our time in general is that the line
+between work and home has in many cases
+for the knowledge worker evaporated yeah
+but you know I think more to the better
+right I think that that is actually a
+good thing that I am in some ways more
+in control than ever between what I'm
+doing at any given time and if I need to
+get work done at a particular time
+that's great if I need to you know be
+with my family that's great you know I
+routinely and I know I'm fortunate in
+this way in the IBM culture but if i
+want to go spend an hour in my
+daughter's classroom you know in her
+third grade class during the workday
+that that's fine right because i'm going
+to be on calls with China and India and
+Japan at ten o'clock 11 o'clock at night
+my iPad or my blackberry has everything
+I need or business or work or personal
+sorry all of one plays so for me I'm a
+10-1 calendar I have an overlay of that
+that's my 8 year olds calendar though
+right so you know but I'm managing a
+calendar for any girl but moms and dads
+everywhere have always done that's been
+on the kitchen refrigerator and instead
+now it's on you know Google or Yahoo or
+some service like that it's electronic
+yeah but that but that marriage is
+incredibly powerful and I think it's
+important you know whether whether what
+it allows is things like my wife now I
+don't have to send her my travel
+itineraries anymore they're on tripit so
+I just made her a reader of all my stuff
+on tripit she knows what hotels I mean
+what flights I'm on there's no questions
+anymore I don't make mistakes anymore oh
+no that's not the flight i'm on i typed
+up a number wrong whatever it's all it's
+all there in electronic form so yeah is
+that my work life is that my personal
+it's what I do
+yeah and if you look at your role
+specifically in IBM you know IBM is
+known to be one of the leaders when it
+comes to the larger enterprises and so
+on and so what are the privacy concerns
+of exactly what you talked about like
+the balancing the private life corporate
+life people are meeting in one calendar
+they want to share it outside their
+enterprise yeah what are what our
+companies saying about this yeah and
+there's still a lot of companies that we
+sell to that you know you put up a
+screenshot of a user's profile and
+tumble and they go oh wait a second
+that's got all my stuff on right I had
+that reaction when I did a demo of
+tumble and one of our conferences in May
+and so I started doing my demos now
+logged out of tumble and I eventually
+look in right but so there's still a lot
+of companies that are real paranoid
+about where is this data going
+especially remote devices blackberries
+and iphones in that and it's an
+interesting issue because if i am in a
+company that you know decides one day I
+don't need you know I'm not needed
+anymore they could do a remote wipe my
+personal data is probably on that device
+to it I just I had no shot to get to it
+right so there's all sorts of
+interesting implications of who owns my
+deed an email I get that right Nelly
+okay fine I left the company you want
+your email back no problem but the
+calendar the calendar is kind of like me
+right that's it me as an individual so
+there's definitely some issues that
+haven't really been worked through yet
+and that people are going to struggle
+with how do you think it's going to
+evolve I think that I think having
+aggregation points I think having
+redundant data I mean you know that's
+greatly can wipe my blackberry but it's
+it's October all right now so I know
+that I've got a copy there and just hope
+that know if it was six and overwrites
+it tomorrow but um I think we're done in
+data I think overlays you know
+publishing through caldav and things
+like that some of which we have to catch
+up on admittedly you know give people
+some ability to open their own data
+around their own self and overlay that
+mariya with their professional
+environment
+but I think that lines very very blurry
+and I don't expect we're going to move
+to any point of clarity I think the
+nature nature of work has changed so
+much that trying to keep your work life
+and your personal life completely
+separate and secure from each other in
+2015 we won't even think about that
+concept interesting and so if you look
+at you know back when it was
+client-server you've had you know your
+company have your your data on their
+server and then then it started to
+migrate towards the web given right what
+were some of the privacy concerns back
+when it started and actually there's
+still nice tile area yeah but but okay
+so so what were the challenges and some
+of them have already been brought down
+like if you look at Salesforce I think
+you know sales force has done a good job
+in educating people that the cloud is is
+safe right yeah i mean we're at a point
+where not everybody's bought it right we
+did a survey with one of our resellers
+600 people filled it out in the last few
+weeks more than half the participants in
+the survey said we'll never do anything
+in the plot you know yeah it's 2010
+right so are those banks or those
+government agencies are those insurance
+companies are they manufacturing you
+know I don't I haven't gone looked at
+that data yet but half of them just said
+no no clock period but the other half
+were like we had clouds an inflection
+point great opportunity for us we want
+to do more and it's the pervasive access
+it's the fixed cost of operation I mean
+there's all that all those benefits so I
+think there are still many many issues
+that companies need to get their heads
+around okay my data is going to live
+somewhere else and that's okay but what
+data is it that's going to be okay if it
+lives out there we look at in the email
+world in that archiving space right
+there is the traditional on-premise you
+know heavy-duty IBM common store kind of
+content management stuff that is really
+secure and really well managed and then
+there's in the cloud archiving providers
+like the Sounion who are just treating
+it like any other data feed that's going
+to go live on an amazon server and with
+the right passwords and other
+authentication you're going to get
+to it so it's a risk factor of it and a
+lot of companies that are you know
+risk-averse are not going to go there a
+lot of companies that say the trade-offs
+are worth then like many decisions about
+sort of web 20 in general right now are
+going to say this is okay for us we know
+the risks the users in control or we as
+an entity or still in control enough
+that this is okay but you still find
+plenty of people that in 2010 aren't
+ready to be on Facebook and ready to be
+on linkedin are ready to be on Twitter
+those are the kind of people that
+probably are still not ready to have the
+corporate data living out of the club on
+the other hand there is sales force
+there is Google Apps there is lotus live
+you know and companies are hungry for
+that kind of you know SAS business model
+and are willing to accept the risk to
+get the benefit of predictable service
+always upgrading fixed costs and you
+know sort of all the other benefits so I
+think privacy is concerned but I think
+there's a lot of other uses to the mex
+you know I don't know if it's actually a
+conversation from the camera so it's
+actually just a question I have as well
+so if you want to have that conversation
+offline is you know like if you look at
+the price point right the price point
+for a lotus lotus live notes for example
+five dollars per user per month yep it's
+fairly cheap yep for what people used to
+pay 500 bucks for our perpetual license
+right which also means that for a
+company like IBM the ER for Lotus the
+revenues will eventually see a price
+please maybe and that's my point like my
+question over my point is what how will
+you be able to maintain as a corporation
+the level of revenue and profit that you
+were going after and maybe it's a lot of
+conversation for this book actually a
+question I want to take your brain on
+yeah I can keep I'll tell you what
+microsoft says yeah how do you put a
+camera microsoft says that be poss is a
+play for bigger share of wallet that
+they actually think they're going to
+generate more revenue than they do off
+of license sales because they have now a
+fixed annuity coming in every month for
+every
+serve whether they were on software
+assurance or not and that the more
+services they have in the cloud the more
+revenue they generate per user I look at
+the cloud more as a choices delivery
+model so for me I'm not I'm not looking
+at it as a revenue maximization scheme
+but once the customer has bought a
+perpetual license for notes the annuity
+revenue is twenty-six percent right a
+pretty industry standard kind of a thing
+what they'll pay us for Lotus live is
+probably about the same as what they
+were paying in annuity revenue so it
+does come down to the same kind of
+attitude as Microsoft's is if I add to
+Lotus life a meetings and collaboration
+and the file sharing and you know a
+number of other services the revenue to
+IBM will will certainly increase over
+time the profitability parts partner but
+if you look at SAS companies and this is
+probably what you're asking you have to
+look at cost as being an area where
+you're constantly optimizing right so
+you know what can we do to get 10 sets a
+user a month operational costs out this
+month what are we going to do to knock
+another fifteen cents out when we look
+at companies in the SAS space the ones
+that are doing well financially have not
+just figured out a revenue equation
+they've figured out a cost equation and
+in software I never really had to think
+about that right i had to set a fixed
+cost to build a version of the product
+and that was in my variable cost was 0
+basically zero yeah now i have variable
+cost ok so in your mind I mean you
+briefly talked about you know this these
+are the things that project Vulcan is
+working on but in your mind what is the
+calendar with huge
+so I think the calendar of the future
+has to in some ways disappear into the
+background I don't know how and when
+that happens but it has to no longer be
+a now I go to my calendar and think
+about calendaring I have to really get
+to a place where it is seamlessly woven
+into the other tasks that I'm doing with
+the analysts looked called contextual
+collaboration the calendar hasn't quite
+come to contextual collaboration part of
+it is the PDA or mobile device mentality
+of okay let me just check my calendar do
+I have that time available but you know
+in a in an iPad or you know that kind of
+device configuration it's I have to stop
+what I'm doing click the big butt and go
+over to my calendar get to the data that
+I'm looking there's like 17 steps to go
+be productive in a calendar whereas it
+should be looking at a document and now
+I need to know if on July eighteenth I
+can do something with that document so
+our thinking and project Vulcan and lots
+of other people's thinking and you know
+some of the projects we see right now is
+how do you get away from that task
+orientation and much more to a process
+orientation or a contextual orientation
+I don't know I've worked with calendar
+it for what did we say in 15 16 years
+and it hasn't happened yet I think there
+will still because of the nature of the
+calendar driving my activity still be a
+discrete activity but it should get more
+integrated into other things and then I
+think the other question that really has
+to be answered is how much sharing do I
+end up doing again most companies still
+people don't make their calendar wide
+open they don't let people see what
+they're working on and there has to be a
+way to make that socially acceptable in
+the company just like it has been share
+my documents and share my knowledge
+right because I mean we've gone down
+this curve and collaboration in general
+when we started shipping nodes 20 years
+ago we had to teach companies why it
+would be good to share the information
+that everybody had in a company most
+companies were my knowledge is my value
+to the company
+and so our first notes customers
+actually had to put incentive programs
+in place for humans to get compensated
+for putting stuff in the notes databases
+it's kind of the same with calendars I
+still don't really feel comfortable
+telling people what am i spending my
+time on every day my own staff though
+probably could really benefit from
+seeing which customers I'm meeting or
+what projects I've spent choosing to
+spend my time on what are my priorities
+more than a once-a-month staff meeting
+whatever so there's still a cultural
+barrier and I see that in lots of our
+customers and I think it just stems from
+the personal nature of Calgary and
+that's probably the last piece that i
+would say kind of in the future we still
+have two addresses in industry i get as
+a vendor or feature request for calendar
+than any other part of our messaging and
+collaboration because calendaring is an
+intensely personal activity i want to
+operate is different than how the next
+person wants to operate and it's
+different in japan and it's different in
+israel and it's different in germany and
+you know we build a horizontal product
+right so you know we almost ship notes
+version 8 without the ability to see the
+week number in the notes aid calendar
+and at the last minute I basically
+stopped the chef because we hadn't put
+that feature in and we had plan to put
+it in later I said you can't ship a
+calendar without week number support for
+the German market because they drive
+events around well in week 17 we're
+going to do X or in Japan they really
+want a few calendars horizontally and
+not vertically because of the cultural
+hierarchy within the country or in you
+know Hebrew it's gotta really go right
+to left and the work day has to the work
+week has to start on Sunday not on
+Monday and you know so the feature
+requests are constant because there are
+cultural differences around the world
+and every individual has a feeling of
+how they want to do it and then the
+other impact is every new device that
+comes out has a different way of
+calendaring and so people want to borrow
+the best at worst for me right now my
+big inflection point is as I keep
+looking at at my iPad sitting over there
+great calendar system Apple as always
+has done a really great job at usability
+but guess what there's no free time
+search there's no ability to counter
+proposed there's no ability to delegate
+a meaning to somebody else I can't even
+send comments in if I accept a meeting
+there's nothing it's yes no maybe so
+really great interface but because
+they've narrowed the scope so much I
+what they're going to actually try to
+accomplish of course if I would

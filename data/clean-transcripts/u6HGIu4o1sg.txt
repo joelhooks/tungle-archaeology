@@ -1,0 +1,101 @@
+# 20100920-u6HGIu4o1sg-Public Events on Tungle
+
+Kind: captions
+Language: en
+Hey, this is Mark and I'm the CEO and
+founder of Tongle. We've recently
+launched a new UI and I hope you really
+like it. We've tried to keep it clean
+and leave room for some new capabilities
+that we will be launching and some of
+the stuff that we had but needed to
+bring to the forefront and one of those
+is public events. And that's what I want
+to talk to you about today. Your Tongle
+Me page does not show your calendar. It
+shows the time that you've decided to
+make yourself available for meetings.
+But sometimes there is one specific
+event that you may want to put public
+for people to know that you're going
+there. For example, you may be going to
+a conference and you want people to know
+that you're going to that conference. Or
+you're traveling and you want people to
+know in which city you're going to be
+when you're traveling. And that's what
+public events allows you to do. Let me
+show you how that
+works. This is my Tungle Me page. You
+can see that you do not see my calendar.
+You just see the times that I'm
+available. But we've added here this
+public timeline. And on this timeline,
+you can see that there are some circles.
+And so, if I mouse over some of these
+circles, it says I'm going on a trip to
+Toronto. This is Labor Day. Uh I'm going
+to be going to the Roger Waters um
+concert at the Bell Center. If I click
+on that week and I scroll down, you can
+see that that's when the Roger Waters
+concert is going to be. So, it's
+actually appearing in my calendar. Now,
+note, it's not my entire calendar that's
+appearing. it's that specific event. So,
+let me show you how we actually do that.
+So, I'll log into my account. And by the
+way, I'm synced currently with Google
+Calendar, but you can sync your calendar
+with any calendar that you want. Now,
+let me put in the right password
+here. Okay. So, now I'm going to go to
+the home view. And there you'll see that
+I can see my entire calendar because I'm
+logged into my account. So, I'm the only
+one that can see that. Now, I'm going to
+be in San Francisco.
+um next week and I want people to know
+that I'm going to be there. So, I'm
+going to say publish this event and I
+can add a note. Uh I'll be at the
+Blackberry developer conference. By the
+way, that's where I'm going to be. So,
+if you're going to be there, let me
+know. Now, I can decide to publish this
+event. And you'll notice that the little
+eye icon next to that event turned
+green. And I can also decide to tweet it
+and let everybody in my network know
+about it. So now I've connected it to my
+Facebook and my Twitter and I can change
+a message here if I want and then
+publish it. In this case, I don't really
+want to tweet it out saying that I'm
+going to be at the conference. So you
+can see now that a circle has now been
+added to my public timeline letting
+people know that I'm going to be at the
+conference. What does it look like on my
+public profile? Well, let's go look. So,
+you can see now that it it's added a an
+event here that says I'm going to be in
+San Francisco. And now everybody
+visiting my Tungle Me page will know
+that I'm there. I can decide to turn it
+off by going back to the event, click on
+the eye and say make the event private.
+If I want an entire calendar to be shown
+as public because I don't want for every
+single detail for every single event to
+make it public, um I can go to calendar
+and contacts and I'm in the syncing
+section and you can see I've synced
+different uh calendars there. I can
+decide to to make my Facebook um
+calendar public and by doing that I just
+click on
+private and I change this to public. I
+can save events and all my Facebook
+events will now be public on my Tongle
+meet page.

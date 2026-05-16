@@ -1,0 +1,50 @@
+# 20100817-FIsAuPApSng-Data & Semantic Relationships - The Calendar of the Future - A Tungle Manifesto
+
+Kind: captions
+Language: en
+so youve got all of these different
+sources of information think of for
+square where you're checking in it's
+telling you where you are at a certain
+time and all these different data
+sources need an anchor they need
+somewhere where it can reside and the
+calendar is the natural repository for
+all this you have these Network effects
+how do you start driving these events
+through everybody's calendar making the
+whole calendar system and experience a
+lot more Dynamic when you have mult mle
+data streams coming into one source you
+now have the ability to aggregate
+information we're pushing out to for
+square the the location and then
+eventually then the idea is to get also
+for square to push in information into
+us get the API pull it in put it on the
+calendar then it shows up in your
+analytics about you know where you were
+being able to integrate with with with
+tungle or you know other cloud-based
+scheduling Services gives you the
+ability to just have that automatically
+happen and so then you're really zeroing
+in on an information relevant and again
+being able to forward that to folks on
+your social graph whether it's
+professional personal or both I think
+calendars can serve a starting point for
+a lot of advanced functionality social
+functionality you can s with your BL
+cast feed for instance which we will
+show as public events me P makes makes
+love what happens to our world when we
+can talk to an iPhone and have it
+negotiate with everything you're going
+to be able
+to change your interactions with your
+community
+with people around you because of C it's
+going to
+um unlock some potential that isn't
+there right now

@@ -1,0 +1,24 @@
+# 20110304-anYmBXu0nu4-How to Set Minimum Proposed Times in Tungle.me
+
+Kind: captions
+Language: en
+your profile page allows others to
+request meetings with you you can set
+the minimum number of time slots a
+person must propose to request a
+meeting here's
+how in your account simply go to public
+profile and select edit availability
+weekly
+template scroll below the calendar
+view to where the proposal drop down
+is select the minimum number of times
+you want people to
+propose and save your
+changes since we selected three when
+someone comes in to request a meeting
+through our page they'll be asked to
+propose at least three possible times
+for the meeting before they can send
+their
+request

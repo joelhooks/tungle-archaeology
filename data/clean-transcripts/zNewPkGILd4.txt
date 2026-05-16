@@ -1,0 +1,22 @@
+# 20110304-zNewPkGILd4-How to Sync Your Calendar to Tungle.me
+
+Kind: captions
+Language: en
+Connecting your calendar to TungleMe
+allows you to see your calendar events
+in your account and for Tungle to keep
+your public profile up to date and
+automatically prevent double bookings
+for you.
+It's important to note that none of your
+calendar details are shared publicly on
+your public profile. Only your free busy
+information is shared.
+To connect a calendar to TungleMe, go to
+the calendar dropdown.
+and select sync calendar contacts.
+Click add new calendar and contact sync
+source
+and select the calendar type you'd like
+to connect.
+Follow the simple steps and you're done.

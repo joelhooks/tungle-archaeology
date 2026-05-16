@@ -1,0 +1,31 @@
+# 20100611-Sm0UHyMYjCg-Tungle.me： How to sync with Windows Live
+
+Kind: captions
+Language: en
+to sync your Windows Live calendar
+you'll need to get your unique calendar
+URL here's how to do it go to your
+Windows Live calendar and select the
+calendar you want to sync from under
+share in the share settings check the
+box for send friends of you only link to
+your calendar click import into another
+calendar application under the detail
+section copy the URL from the
+popup now go to management in your tungl
+me account select synced from the menu
+and click add new calendar and contact
+sync Source choose Windows Live from the
+popup name your calendar and paste in
+the URL you copied from Windows Live
+click add
+Source your Windows Live calendar is now
+synced note that the tungle me sync with
+Windows Live is readon that means you'll
+be able to see your Windows Live Events
+in in tungl me and your availability
+will be updated as you add new events to
+your Windows Live calendar but tungl me
+will not be able to add new events
+booked through tungl me to your Windows
+Live calendar

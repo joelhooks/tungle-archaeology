@@ -1,0 +1,65 @@
+# 20100115-58WEthMfPb8-Tungle for Lotus Notes
+
+Kind: captions
+Language: en
+Mark here CEO and founder of tungle
+today I'm really excited we are now
+supporting notes we've been working with
+the folks from IBM for the past year to
+get this to you uh so now we're
+supporting 99% of all business calendars
+used by professionals all around the
+world so that includes Outlook with or
+without exchange Google Calendar Mac IAL
+and Entourage and now notes we're doing
+a a uh controlled roll out so you can go
+to lotus. tungle do me to actually sign
+up to be part of this limited beta let
+me show you how it
+works this here is my notes
+environment uh tongle first thing that
+we do is we keep in sync both your
+contact list and your calendar with
+tongo so if I go to tongle right now
+which by the way notes allows you to see
+it within in the environment of notes so
+you don't need to open up a new browser
+and so on you can see that my calendar
+and contact list it is perfectly in sync
+with my notes calendar and contact but
+what's the beauty of having tungle
+within your environment is that you can
+also share calendars with people inside
+and outside your office no matter which
+calendar application they're using so
+for example jacu here is sharing the
+detail of his calendar with me and he
+could have been sharing only his free
+busy uh but he's on Google Calendar and
+the other person could have on Outlook
+and so on and so forth now what about
+scheduling that important meeting which
+is what tungle really does so I get here
+an email from Jason and Jason uh
+basically says hey I'd love to see a
+demo of this thing so instead of opening
+up a browser and trying to type the
+names and so on the only thing I need to
+do is go to this little toolbar here and
+click on schedule so what it does it
+opens a tungle window and pre populates
+it with the subject and the people that
+were included in the email and so now
+all I really need to do is go to the
+calendar and start proposing times for
+the meeting it's pretty cool so now uh I
+can get a meeting link or uh send it now
+and then the meeting gets booked so
+that's about it so give it a try let us
+know how it goes uh we're always hungry
+for your feedback um so again uh we're
+really excited if you're at lotusphere
+come and see us uh we're walking around
+you can always tungle me at tungle me/
+markmc have a good
+day

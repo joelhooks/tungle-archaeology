@@ -1,0 +1,462 @@
+# 20100818-8kSHC6AJ3Bo-Ed Brill - Tungle Manifesto (Part 3 of 4)
+
+Kind: captions
+Language: en
+so really great interface but because
+they've narrowed the scope so much of
+what they're going to actually try to
+accomplish well of course if i was
+building a simple calendar interface it
+looked pretty hot right now too but if
+i'm trying to build one that does
+everything
+you know it's more complicated which uh
+which brings me to another point uh and
+it actually i think it brings in a few
+subjects at the same time you've got
+privacy of information what you're
+willing to share with other people and
+so on you've got you know um if you look
+at the notes calendar you look at
+outlook calendar you look at you know
+all these different calendars you take
+out the logo they pretty much all look
+the same you know
+a seven-day grid or depending on the
+visualization on a day or a week or yeah
+pretty much the look is the same
+you think
+uh in that
+grid view
+i mean before people had day planners so
+it wasn't really a grid view but you
+know it was day planners and you had
+monday
+but then when we went uh
+on the pc we start to have the grid view
+and it hasn't really evolved yet
+do you think that's going to evolve do
+you think people are willing to vote and
+if so how do you think that will evolve
+there's a lot of pc metaphors that are
+still stuck in some past experience and
+i i often think
+it's kind of one of the you know spare
+daydreaming things that i i sit there
+and think about if we didn't have this
+installed base what would we do
+differently
+i mean you can you can do that about
+anything
+my favorite one is if we didn't have
+stop lights today red yellow green
+simple lights on a pole what would in
+2010 if you had a bunch of traffic
+engineers try to come up with a traffic
+control signal for an intersection
+would they come up with three little
+lights on a post
+no
+no way
+so but that's what we have right that's
+what we have in 2010 we're stuck with it
+because you're never going to teach the
+whole world some different metaphor
+right and
+you know even in 2010 the metaphor of a
+folder within your mail or the icon to
+save in most applications still looks
+like a floppy disk and i haven't seen a
+physical floppy disk in at least you
+know 10 years right
+so we get stuck in these metaphors of
+the past because of the curse of the
+installed base and that's no offense to
+anybody as an end user but when you've
+trained millions of people to do
+something teaching them to do it in
+different ways is really a challenge so
+again as slick as an ipad or a
+blackberry or whatever is today in 2010
+they've still stuck with the metaphors
+that computing industry
+invented 10 or 20 years ago
+it will take some major inflection
+activity to get people comfortable doing
+it some other way
+and i think activity based may be the
+way to do that but we've been talking
+about that now what do you mean by
+activity like so i'm more focused on
+this project and this thing that i want
+to work on than some time slot and some
+email that somebody sent me and we but
+we've been talking about that concept
+within our research team for six years
+now some of it's in our product today
+but we still can't get to a metaphor
+that's different it still ties to the
+existing tools and systems
+it could be that there's a better way
+out there and our researchers have some
+really good ideas but even when i see
+them do new research projects they still
+start with a grid in calendaring so i
+think that it's going to be some
+major inflection event maybe it's around
+location services maybe it's around some
+cloud thing that we don't know of yet
+that you think the mobile can play a
+role i think mobile is probably the key
+there right because mobile is where the
+innovation is happening right now faster
+than i can write software i can write i
+can see mobile devices with six month
+life span coming out with new interfaces
+and new capabilities
+so
+if that's the place where it will happen
+you know consumer
+adoption happens there as well
+and that's the thing driving a lot of
+i.t is the end user can go buy their own
+mobile device in most companies
+right so i can choose to adopt an iphone
+i can choose to adopt a blackberry i can
+choose to adopt a nokia nobody's
+choosing to adopt windows mobile but
+anyway sorry
+but as an end user if i'm making that
+choice i'm making that choice based on
+oh android has these really great
+features but oh by the way android
+doesn't have a calendar that's built
+into the operating system yet and even
+in froyo 2.2 they have
+some sort of vague data glance thing
+and personal calendar but they don't
+have an enterprise calendar function
+building so now it's up to us as a
+vendor to go fill that hole right so
+every device is doing things different
+and now that more of them have an app
+store model where a user can put their
+own stuff on there users will adopt what
+makes sense to them
+i don't like the way that twitter looks
+so i'll go to flipbook i don't you know
+i'm not really excited about
+you know the facebook app as it's
+installed i'm going to go to some
+different ui right
+i could use the browser for half these
+things but the apps have actually made
+it much more interesting or useful
+and the new york times publishes a
+perfectly good website but they have an
+app on there that takes that website and
+formats it specifically for the ipad so
+i'm using that right
+so i think that users will prod it along
+but i don't know what the thing is that
+they're going to latch onto have you
+tried flipboard right yeah music what do
+you think about it i think it's great
+it's awesome yeah i mean it's the same
+information that we're used to seeing
+every day is just displayed differently
+and people are like no i never knew you
+had that information well the thing that
+they did that's smart is they go one
+level down on the links yeah right
+because half those links that you see in
+a twitter stream you'd probably never
+click on but all of a sudden you're
+reading the article or the summary of
+the article and go oh that's pretty
+interesting so this morning i learned
+some guy in switzerland got a speeding
+ticket for a million dollars
+uh based on driving his mercedes around
+at 200 miles an hour somewhere in
+switzerland and the fine system in
+switzerland is based on
+uh the
+income of the person who got stopped and
+all sorts of things so this guy was six
+hundred thousand pounds so about a
+million us dollars um speeding ticket
+and it was on my twitter stream and it
+was on facebook and it was on techcrunch
+so all of them came together in
+flipboard
+that's interesting yes i i really think
+that you know there's ways that you know
+we're used to our calendar great that's
+not gonna that's gonna change yeah
+because it's ingrained in everybody and
+and
+but i do think that there's place for
+innovation on visualization and it
+depends on what you had like
+for example like the ability you talked
+about the ability to suggest
+stuff to do
+you won't have that pop up from max yeah
+from a square yeah yeah yeah right it's
+got to be a different way of visualizing
+what you could be doing during that time
+and then how does that link back into
+the grid and how do you get out of it or
+you know you travel a lot right and and
+there's if if i'm in the office the
+other grid works for me
+but if i'm traveling i would like to see
+my day in a totally different format for
+example where i want to see my itinerary
+this is where you're going to be going
+this is
+you know and and
+these these are the routes you're going
+to have to take and this is the time
+that you have to estimate so by the way
+don't book a meeting drink that or you
+can do only a phone call or whatever you
+tell your calendar should be intelligent
+for you right now we're starting to take
+steps in that direction yeah
+but it really does all have to come
+together and and you know overlays don't
+do that yet they're not intelligent
+enough to look at each other
+so it's still oh well i have that
+meeting from one to two and then i need
+to drive time and then i need this and a
+bio break and how are we going to
+schedule those in there yeah yeah so
+even though you work like a at ibm which
+is you know considered big blue and
+you're kind of a forward-facing guy
+where you've got well not just for
+further but you do stuff that not the
+typical large organization people do
+like you're on foursquare you're on
+twitter uh you uh you have trippit you
+mentioned
+and then so on and and you've got all
+these different sources of data and so
+on that that's happening so how do you
+see all this aggregating
+and and
+and is there like a
+like where do you see it also aggregate
+yeah well i i mean and not because it's
+you sitting here but the calendar is
+really the aggregation point for most of
+that right because
+i mean not that foursquare has an
+interface to that yet but
+they'll figure it out um or whether it's
+we move to some other location service
+uh you know koala or facebook says
+they're going to do one now or whatever
+it's going to be but
+it's still
+event driven in some way shape or form
+so i won't say meeting driven that would
+be a sort of internal thought but event
+driven that
+okay today there's a launch of lotus
+live so what's going to happen i've got
+internal conference call on it i've got
+an external conference call on it i want
+to be monitoring what the analysts and
+press are saying about it how is all
+that going to come together and make a
+productive day for me and oh by the way
+factor into that that my daughter's bus
+will arrive home at 4 15 and she needs
+to be at the you know friend's house by
+five and the baby needs to go down at
+seven right so
+he you know
+time still is at its essence the thing
+that drives human behavior
+absolutely
+sun goes down sun comes off right so it
+seems like the calendar is probably the
+most logical place to bring together all
+the things going on in the world and
+again not just saying that for the
+campaign
+but but you know but that's that is a
+vision that i think everybody's kind of
+driving towards every one of those other
+apps that you mentioned has a
+time driven element to it foursquare
+wants to know you know two hours ago
+here's who where your other friends
+checked in or 10 minutes ago somebody
+else you don't know checked in in the
+same place you're in right so it's
+addressing time in two dimensions uh
+tripit is completely date driven right
+twitter your twitter stream you almost
+never go back more than an hour or two
+when you sit down and go look at twitter
+because anything older than that doesn't
+really matter right you know it's
+twitter doesn't have a metaphor some of
+the apps do but twitter in and of itself
+doesn't think of a metaphor that says
+here's the latest update from everybody
+you follow it's completely timeline
+driven
+so time is really driving everything
+absolutely yeah and um
+you know i don't know if you if you read
+it or you saw it um i i was in an
+interview last week or two weeks ago i
+forget and finally the guy still hasn't
+put it was a podcast and he still hasn't
+posted it but he wrote
+a blog post about what he had found
+interesting and he was like yeah he
+wasn't expecting
+my comments on
+on how i see
+the role of the calendar in the future
+because at the end of the day yeah we
+built the scheduling service right and
+and
+and uh to me that was the first step
+like actually the first step was to be
+able to aggregate a lot of data and so
+you've got so that's why we made sure
+that we could work with all the major
+calendars and we uh actually on monday
+we're announcing that we're you know you
+can bring in your trip hit you can bring
+you know your your different elements
+that you've got so you start aggregating
+all this whether it's personal whether
+it's working
+then it was okay well what's the biggest
+pain that we're hearing from people is
+like it's scheduling right they need to
+find a better way to schedule meetings
+because they're wasting a shitload of
+time and that's used to tell someone
+we'll solve your scheduling pin you're
+like
+please like help me right and so so that
+was a
+an interesting step but then
+you know at the end of the day
+we realized as well that
+a calendar is kind of the anchor point
+for all these different parts right and
+and if you look at it you know there's
+all this talk about facebook and
+your social graph and so on
+you know what i'm connected on facebook
+to people
+that
+i went to high school with and seriously
+i haven't seen them in 15 20 years right
+right how long has been but
+it's been a shitload of times and you
+know what i i really have no connection
+but they're part of my social craft
+well when you think about it the
+calendar
+is the perfect representation of your
+real social graph
+for a business person they
+look because on the you know
+not everybody uses a calendar so
+um
+but if you look at it you know the
+normal business professional they're
+using their calendar both as you
+mentioned for their personal and their
+work life
+so your calendar knows who are the
+people you're actually meeting how much
+time you're spending with these people
+yeah it knows where you're going what
+you're doing uh how much time you're
+spending on traveling and so on so your
+calendar has so much information and so
+by having this aggregation of data and
+if you add in the location based
+services and so on
+you start having this really
+data-driven place where now you can
+start giving recommendations to people a
+bit like your project
+it was one of the first time the guy had
+thought about it this way it's like dude
+like there's a lot more
+in
+in the calendar
+than
+what meets the eye today because people
+are using this is what i'm doing today
+it doesn't do anything else for me
+but in reality there's so much data
+there and it's structured in what you
+need to be doing like when you look at
+foursquare
+you know it's telling you where the
+person is today
+but at this moment but it's not really
+useful
+for the advertisers or for the
+the location because maybe the bar next
+door
+one tells you oh there's a 10 off beer
+now but
+you don't care about it you're sitting
+here it's like you're not you already
+ordered your beer you're not gonna go
+somewhere else right so it's kind of but
+your calendar knows that
+like let's say you're you i was coming
+to chicago
+the first spot even before my wife
+that knew where i was going was my
+calendar right right right because i had
+put it in my calendar and then now that
+i said okay uh thursday i'm coming to
+meet ed then it's like okay i need a
+flight
+uh okay this time i won't need a rental
+car but then there's other things that
+you may need right and so your calendar
+is the first spot for it and so there's
+just natural synergies that what needs
+to get done and it knows your behavior
+it knows what your license or your
+dislikes and it also knows
+um
+who you're interacting with and what
+their likes and dislikes are yeah so to
+me there's a lot of information there
+right and so
+which i think it's totally in line with
+what you're talking about yeah
+um
+well the the special sub four square
+thing is fascinating to me i was talking
+to ta mccann last week yeah he was in
+town yeah and uh we were talking about
+uh we actually initially started to talk
+about it in the context of groupon you
+know some people grew up on they're
+apparently chicago based i don't think
+yeah i don't know i don't know them i i
+should feel like i should but um
+and i probably have six connections to
+them i just haven't gone and looked for
+it

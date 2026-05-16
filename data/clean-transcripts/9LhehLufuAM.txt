@@ -1,0 +1,32 @@
+# 20100611-9LhehLufuAM-Tungle.me： How to sync with Plancast
+
+Kind: captions
+Language: en
+to sync your plancast calendar you'll
+need to get your unique calendar URL
+here's how to do it sign into plancast
+go to profile and rightclick the
+calendar icon at the top right click
+copy shortcut from the
+menu it's important you do this from the
+profile section so that you only get
+your events and not the events of all
+the people you subscribe
+to now sign into tungl me go to
+management and select synced from the
+menu click add new calendar and contact
+sync Source select Plan cast from the
+popup name your calendar paste in the
+link you copied from plancast and click
+add
+Source your plancast calendar is now
+synced note that the tungl me sync with
+plancast is
+readon that means you'll be able to see
+your plancast events in tungl me and
+your availability will be updated as you
+add new events to
+plancast but tungl me will not be able
+to add new events booked through tungl
+me to your plancast
+calendar

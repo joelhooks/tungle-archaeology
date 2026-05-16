@@ -1,0 +1,137 @@
+# 20100420-7yNC5EGsSM8-Tungle.me for Lotus Notes
+
+Kind: captions
+Language: en
+hi my name is Mark and I'm the CEO and
+founder of tungo it's a really exciting
+day for us today one year of work that
+we've been doing with IBM and now is now
+available for everybody to start using
+we are making available our notes
+connector for everyone to start using it
+worldwide so how does it work well
+tungle is a scheduling service we take
+the pain out of scheduling you know all
+the emails back and forth that you go
+through to find time to meet with one or
+many people whether they're inside your
+office or not well that's the pain that
+we solve and let me show you how we
+actually do
+it so when you first sign up to tungle
+which is a free account you get your own
+tungle me URL so mine is tungle
+mmark and so what we do once you get it
+is you really get to customize it the
+way you like it so I put my picture on
+it I really linked it to my different
+social networks but what's really cool
+is that I really got to set the times
+that I want to make myself available for
+meetings so for example I took out so
+that every week on Monday mornings
+nobody can schedule a meeting with me
+because I have my management meetings I
+have all my marketing meetings and so on
+and also on Friday afternoon my head is
+not at having meetings so I really took
+out my Friday afternoons and I really
+got to say you know what I want meetings
+from 8:30 to 5:30 and and so on so the
+other thing and this is where the power
+of the notes connector really fits in is
+that as you have events in your noes
+calendar it is automatically sync with
+tongle so you don't need to think about
+oh no I'll get double booked because I
+made myself available on tungle no what
+it does it automatically takes out the
+times that you set as busy in your
+calendar and as you move stuff around in
+your calendar it will automatically
+update this page for you so when someone
+wants to meet with me what I do is I
+send them to tungle mmark it's
+automatically formatted for their time
+zone so if they're on the West Coast or
+if they're in Europe it will
+automatically display these times here
+based on their time zone so when someone
+wants to meet with me they get to this
+URL and then they get to pick multiple
+times to schedule a meeting with me and
+then I'll get an email saying hey Bob
+wants to meet with you and here are the
+times that he's proposing to meet with
+you so I get to pick the time that works
+best for me it puts it in my calendar
+they automatically receive the uh email
+confirmation and the meeting is booked
+so it's pretty powerful but what's
+happening is that tungle is spreading
+really rapidly and more and more people
+were getting their pages and so what
+we've created is if you know the IDE of
+the different people that are uh
+scheduling meetings you can actually
+just start superimposing them on top of
+yours so for example let me add jaku rod
+and Aaron here and as I add their name
+here you'll see the aggregate
+availability of all these four different
+people so I'm a notes user jauza
+Outlook user ry's an IAL user and
+Aaron's a Google Calendar user and we're
+all in different system but now I can
+see the aggregate availability of all of
+us so if I wanted to schedule a meeting
+with all of us I just pick a time that
+works for us and I book it it's pretty
+straightforward now let me show you what
+it looks like within the notes
+environment so when you install the
+widget which B takes a few seconds you
+basically just drag it into the widget
+section it will automatically sync it
+your sync your Notes Calendar with
+tungle and you don't need to manually do
+it as you move stuff around as you add
+more events into your notes calendar
+tungle is automatically updated for you
+now most of meetings are initiated by an
+email that you receive so I received an
+email from Jean Philip and in the past
+what I would have done is I would
+probably hit reply and say hey JP how
+about Monday looking at my calendar
+looking back and forth and most of the
+times that I would have probably propose
+are not good good because he'll be busy
+so instead what you can do instead of
+hitting reply you just hit on the
+schedule button and what that does it
+opens up a window within your notes
+environment and it prepopulates the
+subject with the subject of the email so
+you don't have to type it in edit
+populates as well everybody that was in
+the two and the
+CC and so now what's even more powerful
+is because I was already sharing my
+calendar with Aon and Rod their their
+events are shown here now Aon I just see
+her free busy because that's what she
+accepted to share with me but Rod I can
+actually see the detail of his calendar
+because that's what he's accepted to
+share with me so if I wanted to schedule
+a meeting I can now start proposing
+multiple times not just one but multiple
+times and allow them to pick the times
+that work best for them so that we can
+find a time to meet so it's pretty
+powerful there's a lot more to tungle
+and I invite you to try it out it is a
+free service again tungle do me let us
+know what you think about it and enjoy
+tongling

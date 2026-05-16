@@ -1,0 +1,389 @@
+# 20100818-Tg3nZBvCp9E-Robert Scoble - Tungle Manifesto (Part 2 of 4)
+
+Kind: captions
+Language: en
+you know what we can and social right it
+Chang and and Siri hooked that into Siri
+now what can Siri do about that you know
+already there's a service called gobi go
+that you can say I'm here um where's all
+the hiking trails around here right you
+know and it's cool it shows it on a map
+you know um realtors.com had a map where
+you just look at the city oh I want to
+live in that part of the city you Circle
+it and it shows all the houses available
+in that part of the city right you know
+and you know and then you hook that into
+a calendar you start saying okay I I
+have five houses to look at I can't do
+all five today let's do two today well
+that's a calendar yeah you know let's do
+three tomorrow yeah and the calendar
+then has to get the realtor you know
+could talk to my realtor and say hey I
+got to look at houses tomorrow can you
+make you know these three houses happen
+well that's calendar and so there's
+calendar underneath there might not be
+the right you might not look at the grid
+but your the data is there and the
+assistant like Siri that you're talking
+to is going to make the deal with you
+know she'll talk to my you know the Siri
+app will talk to my realtor app make a
+deal and find out that she's available
+or not you
+know let's talk about privacy for two
+minutes because it's something that's
+kind of comes up um one of the things
+that we certainly notice and we've
+talked about is that you know the valley
+has a very unique perspective on that
+and as you move to the Northeast there's
+a different viewpoint but as an example
+I just want to kind of start off with
+how many four square friends have you
+got 9,000 M okay and 3,000 on goala
+Twitter 130,000 Facebook uh
+1,700 and then 11,000 on my public page
+so you're living your life in public
+very much your autoresponder got your
+cell number your your home address
+hasn't run has it you this is the this
+is the weird side people are afraid of
+[&nbsp;__&nbsp;] that they don't know yeah but once
+they know it's like why didn't you know
+you get really good phone calls and if
+you get a Spam call you hang up on it's
+like it's not that big a deal and I
+don't get that much stuff I my email
+actually I get far more spam and
+intrusive kind of things on my email
+than I do on my phone people are
+unlikely to pick up the phone after they
+receive that autoresponder and say hi
+Robert I want to talk about these kinds
+of things yeah it's something about
+voice is like I'm only going to call him
+if I have something really interesting
+to say with all of that kind of living
+in public is it ever presented kind of
+you ever feel like people are crossing
+the line with you
+um not because of that
+uh I can't walk around an exhibit hall
+at a Tech conference and not get costed
+you know right and that but that has
+nothing to do with the fact that I
+checked in on for square they don't they
+don't accost me because they check in on
+Four Square they check in because oh
+they's Scoville I want to picture my
+product 100% but they're looking for you
+once they see on Four Square check in
+right I I don't haven't noticed really
+the different you know and personally if
+I'm checking in a tech event I'm okay
+with it anyway I'm I know I know what's
+going to happen yeah right and but it
+doesn't happen people don't come out to
+where I am you know they just see it's
+very weird people aren't aren't aren't
+using these tools to really get to that
+level of stocking you hear a lot about
+it but I think it's paranoid yeah I I
+can see the fear and I I'm actually
+worried about other things
+so if we all live in public and I can
+watch you all day
+long now I can see patterns in your life
+that you might not even know exist and
+the credit card I talked with somebody
+who works at Visa he says well he says
+they can predict somebody's going to get
+a divorce a year before they're
+div because your spending habits change
+and you you start doing things with your
+money to protect yourself against an
+impending bad event in your life and so
+if and and the CIA is doing this right
+how do they catch terrorists they're
+looking for patterns and if you have
+enough data and have enough people
+passing information back and forth you
+can see those pattern you know if uh if
+a rack space executive keeps flying to a
+certain company and keeps go visiting
+there you can start saying that guy is
+making a business deal or being acquired
+or something like that right changing
+companies or changing companies right so
+now now you start calling all of his
+friends at work and going why is he
+always visiting Amazon or what you know
+and wow we didn't have that pattern
+before uh you know that was opaque to us
+now it now it could be very visible
+right and um so we're we're going to
+have different privacy concern in the
+future than we have today you know it's
+a little weird for old people to put
+this data in right because it's like we
+didn't put our medical history of and we
+don't talk about that you know Steve
+Jobs didn't want to share his kidney
+problem or his liver problem right but
+in the future you're going to put that
+up on your blog so that the best doctor
+in the world is going to see that or
+somebody who has the same problem as you
+and says hey I did the research and
+here's the best doctor and here's the
+the newest Medical Science and here's
+the drug you know you better check this
+out and ask your doctor about this stuff
+you know and it's true I I interviewed a
+surgeon he said the knowledge and
+medical stuff is changing so fast he
+can't he's a Stanford you know uh a lung
+surgeon who is like one of the best in
+the world and he can't he says
+everything he learned in medical school
+is completely obsolete 30 years ago
+right and so now he uses an iPhone to
+keep track of what's going on in the
+world you know and he looks up your
+symptoms on the iPhone to make sure that
+the sign didn't change in the last 24
+hours CU some some doctor in Harvard you
+know or somewhere else in the world you
+know discovered a new treatment or
+discovered a new you know way to deal
+with this you know so so let me you know
+this comes back to too information too
+much information in some ways right we
+see part of our responsibility is these
+this data flows into your calendars to
+help contextualize it right you got
+these huge pipes out there you want to
+bring in a Twitter stream it's
+meaningless unless you contextualize it
+yeah you have all people must just have
+this flood of data coming in can you
+talk for two minutes about how you deal
+with that I mean as an example I get
+your autoresponder and it's clear
+there's no way you're responding to
+every email you have too much else going
+on in your life no especially if I do
+interesting stuff like this um I I look
+at it as surf you know it's like it's
+like the sea is really wet and there's a
+lot of water there and we don't care we
+go surfing you know and we don't try to
+drink all the water we don't try to
+understand it all we just surf the wave
+you know and and so I a river of crap is
+coming through my life right right now
+as we sit there's a river of crap going
+through my screen and um when I get back
+online I'll dive in and swim for a
+little while and then get out and I I
+don't feel guilty anymore that I can't
+do it all right um are you comfortable
+that you're surfacing the most Salient
+the most
+interesting I am always worried that I'm
+going to miss something but on the other
+hand I Flipboard you know and it was a
+stupid little pitch I I posted the pitch
+that they sent me it's like we have
+something you think we think you should
+see and I had no clue who the company oh
+really that's the way they approached
+you did you not then connect Ashton to
+them was that yeah but that was later
+that was after I saw the product and I
+got excited by it it's like I don't you
+know the way I mean I'm looking for
+Serendipity and so that caught my eye
+it's like oh here's somebody who is
+interested in I so I in my life I have I
+in in my professional life I have these
+things called battlefronts that I U that
+I'm passionate about things like iPads
+and 3D cameras right 3D technology right
+or um uh you know iPhones versus Android
+that's that's interesting to me iPhone
+versus Nokia over you know iPhone versus
+so if you if you pitch me something on
+one of those story arcs or
+battlefronts I'm going to be more
+interested than if you pitch me an
+Enterprise app that works with Exel 2
+right and and so yeah they pitched me
+and it's like I it it had keywords like
+iPad social media you know and they they
+were they were reading me and it's like
+okay what's up with this coming that was
+a different kind of pitch than I've seen
+so so I had to go and see him and of
+course like oh yeah that's
+cool um but anyway I I'm chasing those
+kind of Serendip experiences I think
+that's why I liked Four Square so much
+four square is Serendipity around Place
+M uh and Serendipity around people so um
+in Paris I have no idea where I am and I
+don't really know what I want to do um
+I'll check in and see did anybody leave
+any tips and you know one of the tips
+there's a real world one of the tips was
+the best French Pates right around the
+corner it's like I would never have
+searched for bench best French baby but
+I found it and it was an EXT ordinary
+French bakery you know and when I get
+into Atlanta I checked in at a
+restaurant I said try the fried bacon
+it's not on the menu you wouldn't have
+found it on the menu if you just read
+the menu you had to read four square and
+find this little tip that somebody left
+you know and it's Serendipity and it
+makes your experience better and gives
+you stories to tell your friends and
+isn't the obligation to Move It from
+Serendipity to real intelligence though
+so that you're kind of ensuring that
+flow I don't know because you know what
+if it's real intelligence then everybody
+goes there mhm and then it's not cmore
+it's not you didn't find the piece of
+gold on the street you know by running
+across sure sure I mean you know four
+square beyond the checkin has this
+really rich repository of metadata right
+and that's really what you're talking
+about if you look at it in terms of the
+individual you were talking about
+patterns before not only you seeing time
+and place but you're seeing interests
+right um yeah eventually I I mean I
+would love to see uh I would love to see
+a system where I could say show me all
+the Half Moon Bay restaurants but only
+show the reviews written by people who
+have been to four barbecue places or
+more get rid of everybody else because I
+want to see what the meat eaters think I
+I want some meat you know right and I I
+I don't care what the Fish Eaters think
+and I don't care what the veggies you
+know the vegans think because they're
+not meat eaters they don't know what the
+best meat places so I want to just study
+what the the med say and I I can't do
+that today you know but eventually I
+think we will be able to they all these
+you know all these location systems are
+building that kind of database and you
+could chunk it out like that one of the
+things that we see the the calendar of
+the future to do it's actually actually
+even shorter than the future but um is
+about helping you understand how you're
+using your time and then giving you
+recommendations so like a match model
+where you're studying CR credit card
+exactly hey you you went to sushi
+restaurant
+this many times and you're spending too
+much money right and that's part of why
+we first first the First Fundamental is
+being able to aggregate all the data
+from all your calendars but also from
+for Square from you know any feed that
+you may have and then from there giving
+you analytics you know so that you can
+start doing some really cool stuff
+that's Linda Stone and I have been
+talking about that and she asked me how
+how do I U manage my attention not
+manage my time cuz managing time is like
+you know what am I going to do for the
+next hour right but how do I manage um
+how do I manage to do this you know how
+do I make enough time and I I thought
+back and it's like I was at Food the
+first food camp and I you know I
+eventually got kicked out and no I'm
+back
+again but I told him rightly this I said
+you know what the first two were so
+magical I wanted to do that every day of
+my life that that was sort of I want to
+live a food Camp life every day of my
+life and be interviewing or talking with
+some geek who's changing the world yeah
+you know and have that experience so
+that was it I I set up I I'm going to do
+an interview every day of my life I you
+know um and it'll be an hour or or two
+hours or something like that and that'll
+be my first thing I put on the
+calendar and I'll try to focus all my
+energy into making that happen right um
+and that's hard to communicate with a
+calendar you know because it just is
+it's it's hard to say oh yeah I got my
+life directive done
+today right you know and especially
+tongle me actually works against you
+because people can if if you let your
+because I started putting my tongle me
+out there I I actually pulled my tongue
+me a little bit back yeah because people
+would just take every freaking hour of
+your day and for stupid for stuff that I
+like that's not a that's not a food Camp
+experience that's right that's like a St
+stupid company come
+on want two hours on top of it right
+well or they worse I I don't even care
+about that cuz every once in a while I
+see a company that I think is stupid and
+then it turns out to be brilliant right
+but they'll there'll be a company here
+and a company here and they'll take the
+45 minutes in between I'm like I got to
+travel between here and here you know so
+then I had to start blocking things out
+and and that but it
+also I like uh thinking about you know
+the the pacing of a week the day and and
+if I'm letting other people be in
+control of my calendar I can't do that
+and they'll take every available hour
+because they want my
+attention so I got to remember oh I need
+to exercise I need to spend time with
+the family and I'm not doing enough for
+that are you scheduling that stuff just
+out of curiosity I well I I made it so
+that tungle can't take more than a
+couple hours a day so people only can
+have a few hours
+um um and yeah I'm blocking morning time
+out I don't do I don't do anything in
+the morning usually um but yeah I even
+stock you guys in a 10 which which I
+appreciate I usually don't but that's
+why I sort of keep like before 11 open
+once so I can sleep and and do some
+exercise and stuff like that so being to
+sleep you roll over in the morning
+what's the first thing that you kind of
+grab and what's the first thing you look
+at or

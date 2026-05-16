@@ -1,0 +1,27 @@
+# 20101111-tn1pFi60lj4-How to Connect your Calendar to Tungle.me
+
+Kind: captions
+Language: en
+To connect your calendar to TungleMe,
+you'll need to be signed into your
+account. Click calendars and contacts on
+the left and then click add new calendar
+and contact sync
+source. The popup will show you all of
+the calendars and social networks that
+you can connect
+to. Select your calendar type and follow
+the simple steps to sync.
+For Outlook, Lotus Notes, and Mac
+calendars, you'll need to download a
+small
+connector. Google users will be able to
+connect on the web with just an email
+address. Once connected, you'll be able
+to see your calendar events in your
+TongMe account. But don't worry, only
+you will be able to see the details of
+your calendar. Everything will be kept
+private for people viewing your profile
+page. which will look something like
+this with free busy information only.

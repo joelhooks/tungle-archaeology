@@ -1,0 +1,341 @@
+# 20100818-2nuG0J6fyiE-Ed Brill talks the Future of the Calendar - A Tungle Manifesto
+
+Kind: captions
+Language: en
+so I think the calendar of the future
+has to in some ways disappear into the
+background I don't know how and when
+that happens but it has to no longer be
+a now I go to my calendar and think
+about
+calendaring I have to really get to a
+place where it is seamlessly woven into
+the other tasks that I'm doing what the
+analysts love to call contextual
+collaboration the calendar hasn't quite
+succumbed to contextual collaboration
+yet part of it is the PDA or mobile
+device mentality
+of okay let me just check my calendar do
+I have that time available but you know
+in a in an iPad or you know that kind of
+device configuration it's I have to stop
+what I'm doing click the big button go
+over to my calendar get to the day that
+I'm looking there's like 17 steps to go
+be productive in the calendar whereas it
+should be I'm looking at a document and
+now I need to know if I'm July 18th I
+can do something with that document um
+so our thinking in Project Vulcan and
+lots of other people's thinking in you
+know some of the projects we see right
+now is how do you get away from that
+task orientation and much more to a
+process orientation or contextual
+orientation um I don't know I've worked
+with calendaring for what did we say 15
+16 years and it hasn't happened yet um I
+think there will still because of the
+nature of the calendar driving my my
+activity still be a discreet activity
+but it should get more integrated into
+other things and then I think the other
+question that really has to be answered
+is how much sharing do I end up doing I
+think in most companies still people
+don't make their calendar wide open they
+don't let people see what they're
+working on and there has to be a way to
+make that socially acceptable in the
+company just like it has been to share
+my documents and share my knowledge
+right because I mean we've gone down
+this curve and in collaboration in
+general when we started shipping noes 20
+years ago we had to teach companies why
+it would be good to share the
+information that everybody had in the
+company most companies were my knowledge
+is my value to the company and so our
+first nodes customers actually had to
+put incentive programs in place for
+humans to get compensated for putting
+stuff into notes
+databases it's kind of the same with
+calendars I still don't really feel
+comfortable telling people what am I
+spending my time on every day my own
+staff though probably could really
+benefit from seeing which customers I'm
+meeting what projects I'm spent choosing
+to spend my time on what are my
+priorities more than at a once a month
+staff meeting or whatever so there's
+still a cultural barrier and I see that
+in lots of our customers and I think it
+just stems from the personal nature of
+calendaring and that's probably the last
+piece that I would say kind of in the
+future we still have to address as an
+industry I get as a vendor more feature
+requests for calendar than any other
+part of our messaging collaboration
+because calendaring is an intensely
+personal activity how I want to operate
+is different than how the next person
+wants to operate and it's different in
+Japan and it's different in Israel and
+it's different in Germany and you know
+we build a horizontal product right so
+you know we almost shipped notes version
+8 without the ability to see the week
+number in the notes8 calendar and at the
+last minute I basically stopped the ship
+because we hadn't put that feature in
+and we had planned to put it in later I
+said you can't ship a calendar without
+week number support for the German
+Market because they drive events around
+well in week 17 we're going to do X or
+in Japan they really want to view
+calendars horizontally and not
+vertically because of the cultural
+hierarchy within the the country or in
+you know Hebrew it's got to really go
+right to left and the work day has to
+work week has to start on Sunday not on
+Monday and you know so the feature
+requests are constant because there are
+cultural differences around the world
+and every individual has a feeling of
+how they want to do it and then the
+other impact is every new device that
+comes out has a different way of
+calendaring and so people want to borrow
+the best and worst for me right now my
+big inflection point is as I keep
+looking at it my iPad sitting over there
+great calendar system apple as always
+has done a really great job on usability
+but guess what there's no free time
+search there's no ability to counter
+propose there's no ability to delegate a
+meeting to somebody else I can't even
+send comments in if I accept a meeting
+there's there's nothing it's Yes No
+Maybe So really great interface but
+because they've narrow the scope so much
+on what they're going to actually try to
+accomplish well of course if I was
+building a simple calendar interface
+it'd look pretty hot right now too but
+if I'm trying to build one that does
+everything you know it's more
+complicated which uh which brings me to
+another Point uh and it actually I think
+it it brings in a few subjects at the
+same time you've got privacy of
+information what you're willing to sh
+share with other people and so on you've
+got you know um if you look at the Notes
+Calendar you look at Outlook calendar
+you look at you know all these different
+calendars you take out the logo they
+pretty much all look the same you know
+7-Day Grid or depending on the
+visualization want a day or a week
+orever pretty much the look is the same
+you think uh and that grid view I mean
+before people had day planners so it
+wasn't really a grid View you know it
+was dat planners and you had Monday to
+and then but then when we went uh on the
+PC we started to have the grid
+view uh and it hasn't really evolved
+yeah um do you think that's going to
+evolve do you think people are willing
+to evolve and if so how do you think
+that will evolve there's a lot of PC
+metaphors that are still stuck in some
+past experience and I I often think it's
+kind of one of the you know spare
+daydreaming things that I I sit there
+and think about if we didn't have this
+installed base what would we do
+differently I mean you can you can do
+that about anything my my favorite one
+is if we didn't have stop lights today
+red yellow green simple lights on a pole
+what would if in 2010 if you had a bunch
+of Traffic Engineers try to come up with
+a traffic control signal for an
+intersection would they come up with
+three little lights on a
+post no no way so but that's what we
+have right that's what we have in 2010
+we're stuck with it because you're never
+going to teach the whole world some
+different metaphor right and you know
+even in 2010 the metaphor of a folder
+within your mail or the icon to save in
+most applications still looks like a
+floppy disc and I haven't seen a
+physical floppy disc in at least you
+know 10 years right um so we get stuck
+in these metaphors of the past because
+of the curse of the install base and
+that's no offense to anybody's an user
+but when you've trained millions of
+people to do something teaching them to
+do it a different way is is really a
+challenge so again as slick as an iPad
+or a Blackberry or whatever is today in
+2010 they've still stuck with the
+metaphors that Computing industry and
+invented 10 or 20 years ago it will take
+some major inflection activity to get
+people comfortable doing it some other
+way and I think activity based may be
+the way to do that but we've been
+talking about that now what do you mean
+by activity based like so I'm more
+focused on this project and this thing
+that I want to work on than some time
+slot and some email that somebody sent
+me and we but we've been talking about
+that concept within our research team
+for six years now some of it's in our
+product today but we still can't get to
+a metaphor that's different it still
+ties to the existing tools and
+systems it could be that there's a
+better way out there and our researchers
+have some really good ideas but even
+when I see them do new research projects
+they still start with a grid in
+calendaring so I think that it's going
+to be some major inflection event maybe
+it's around location services maybe it's
+around some Cloud thing that we don't
+know of yet um that you think the mobile
+can play a role in there I think
+Mobile's probably the the key there
+right because mobile is where the
+Innovation is happening right now faster
+than I can write software I can write I
+can see mobile devices with six-month
+lifespan coming out with new interfaces
+and new
+capabilities
+so if that's the place where it will
+happen you know consumer adoption
+happens there as well and and that's the
+thing driving a lot of it is the end
+user can go buy their own mobile device
+in most companies right so I can choose
+to adopt an iPhone I can choose to adopt
+a Blackberry I can choose to adopt a
+Nokia nobody's choosing to adopt Windows
+mobile but anyway sorry
+um uh but as an end user if I'm making
+that choice I'm making that choice based
+on oh Android has these really great
+features but oh by the way Android
+doesn't have a calendar that's built
+into the operating system yet and even
+in proo 2.2 they have some sort of vague
+day to glance thing and personal
+calendar but they don't have an
+Enterprise calendar function build so
+now it's up to us as a vendor to go fill
+that b right so every device is doing
+things different and now that more of
+them have an app store model where a
+user can put their own stuff on there
+users will adopt what makes sense to
+them I don't like the way that Twitter
+looks so I'll go to flipbook I don't you
+know I'm not really excited about um you
+know the Faceook app as it's installed
+I'm going to go to some different UI
+right um I could use the browser for
+half these things but the apps have
+actually made it much more interesting
+or useful right the New York Times
+publishes a perfectly good website but
+they have an app on there that takes
+that website and formats it specifically
+for the iPad so I'm using that so I
+think that users will Pro it along but I
+don't know what the thing is that
+they're going to latch on to have you
+tried flip board by the way yeah what do
+you think I I think it's great it's
+awesome man I mean it's the same
+information that we're used to seeing
+every day is just displayed differently
+and people are like I never knew had
+that information well the thing that
+they did that smart is they go one level
+down in the links yeah right because
+half those links that you see in a
+Twitter stream you'd probably never
+click on but all of a sudden you're
+reading the article or summary of the
+article and go oh that's pretty
+interesting so this morning I learned
+some guy in Switzerland got a speeding
+ticket for a million dollars uh based on
+driving his Mercedes around at 200 miles
+an hour somewhere in in Switzerland and
+the fine system in Switzerland is based
+on uh the income of the person who got
+stopped and all sorts of things so this
+guy was 600,000 pounds so about a
+million US Dollars um speeding ticket
+and it was on my Twitter stream and it
+was on Facebook and it was on Tech
+crunch so all of them came together in
+Flipboard so that's interesting yeah I I
+really think that you know there there's
+ways that you know we're used to our
+calendar grd and that's not going to
+that's going to change yeah um because
+it's ingraining everybody and and and
+and um but I do think that there's place
+for Innovation on visualization and it
+depends on what you like for example
+like the ability you talked about the
+ability to suggest stuff to
+do you won't have that pop up from a
+from a square and your there's got to be
+a different way of visualizing what you
+could be doing during that time and then
+how does that link back into the grid
+and then how do you get out of it or you
+know you travel a lot right and and
+there's if if if I'm in the office yeah
+the grid works for me but if I'm
+traveling I would like to see my day in
+a totally different format for example
+where I want to see my itinerary this is
+where you're going to be going this is
+you know and and and these These are the
+routes you're going to have to take and
+this is the time that you have to
+estimate so by the way don't book a
+meeting during that or you can do only a
+phone call or whatever your int your
+calendar should be intelligent for you
+right yeah we're starting to take steps
+in that direction but but it really does
+all have to come together and and you
+know overlays don't do that yet they're
+not intelligent enough to look at each
+other um so it's still oh well I have
+that meeting from 1 to two and then I
+need a drive time and then I need a this
+and a bio break and yeah how are we
+going to schedule those in there right
+yeah

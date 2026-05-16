@@ -1,0 +1,176 @@
+# 20100818-S5arq6lpcIM-Ed Brill on the Ecosystem - A Tungle Manifesto
+
+Kind: captions
+Language: en
+apple as always has done a really great
+job on usability but guess what there's
+no free time search there's no ability
+to counter propose there's no ability to
+delegate a meeting to somebody else I
+can't even send comments in if I accept
+a meeting
+there's there's nothing it's Yes No
+Maybe
+so really great interface but because
+they've narrowed the scope so much of
+what they're going to actually try to
+accomplish well of course if I was
+building a simple calendar interface it
+looked pretty hot right now too but if
+I'm trying to build one that does
+everything you know it's more
+complicated which uh which brings me to
+another Point uh and actually I think it
+brings in a few subjects at the same
+time you've got privacy of information
+what you're willing to share with other
+people and so on you've got you know if
+you look at
+the Notes Calendar you look at
+Outlook calendar you look at you know
+all these different calendars you take
+out the logo they pretty much all look
+the same you know you know a seven day
+Grid or depending on the visualization
+on a day or a week or yeah pretty much
+the look is the same you think
+and that grid View
+I mean before people had day planners so
+it wasn't really a grid view but you
+know it was day planners and you had
+Monday yeah but then when we went uh on
+the PC we started to have the grid View
+um and it hasn't really evolved yet
+do you think that's going to evolve do
+you think people are willing to evolve
+and if so how do you think that will
+evolve there's a lot of PC metaphors
+that are still stuck in some past
+experience and I I often think
+kind of one of the you know spare
+daydreaming things that I I sit there
+and think about if we didn't have this
+installed base what would we do
+differently I mean you can you could do
+that about anything my favorite one is
+if we didn't have stop lights today red
+yellow green simple lights on a pole
+what would if in 2010 if you had a bunch
+of Traffic Engineers try to come up with
+a traffic control signal for an
+intersection would they come up with
+three little lights on a post
+no no way so but that's what we have
+right that's what we have in 2010 we're
+stuck with it because you're never going
+to teach the whole world some different
+metaphor right and you know even in 2010
+the metaphor of a folder within your
+mail or the icon is save and most
+applications still looks like a floppy
+disk and I haven't seen a physical
+floppy disk in at least you know 10
+years right so we get stuck in these
+metaphors of the past because of the
+curse of the install base and that's no
+offense to anybody's an end user but
+when you've trained millions of people
+to do something teaching them to do it a
+different ways is really a challenge so
+again as slick as an iPad or a
+Blackberry or whatever is today in 2010
+they've still stuck with the metaphors
+that Computing industry invented 10 or
+20 years ago it will take some major
+inflection activity to get people
+comfortable doing it some other way and
+I think activity based may be the way to
+do that but we've been talking about
+that now what do you mean by activity
+like so I'm more focused done this
+project and this thing that I want to
+work on then some time slot and some
+email that somebody sent me and we but
+we've been talking about that concept
+within our research team for six years
+now some of it's in our product today
+but we still can't get to a metaphor
+that's different it still ties to the
+existing tools and systems
+it could be that there's a better way
+out there and our researchers have some
+really good ideas but even when I see
+them do new research projects they still
+start with a grid and
+so I think that it's going to be some
+major inflection event maybe it's around
+location services maybe it's around some
+Cloud thing that we don't know of yet
+um that you think the mobile can play a
+role I think mobile is probably the key
+there right because mobile is where the
+Innovations happening right now faster
+than I can write software
+can write I can see mobile devices with
+six month lifespan coming out with new
+interfaces and new capabilities
+so
+if that's the place where it will happen
+you know consumer adoption happens there
+as well and that's the thing driving a
+lot of I.T is the end user can go buy
+their own mobile device in most
+companies
+so I can choose to adopt an iPhone I can
+choose to adopt a Blackberry I can
+choose to adopt a Nokia nobody's
+choosing to adopt Windows mobile but
+anyway sorry
+um
+but as an end user if I'm making that
+choice I'm making that choice based on
+oh Android has these really great
+features but oh by the way Android
+doesn't have a calendar that's built
+into the operating system yet even in
+Froyo 2.2 they have some sort of vague
+data glance thing and personal calendar
+but they don't have an Enterprise
+calendar function but
+so now it's up to us as a veteran to go
+fill that hole right so every device is
+doing things different and now that more
+of them have an app store model where a
+user can put their own stuff on there
+users will adopt what makes sense to
+them I don't like the way that Twitter
+looks so I'll go to flipbook I don't you
+know I'm not really excited about you
+know the Facebook app as it's installed
+I'm going to go to some different UI
+right I could use the browser for half
+these things but the apps have actually
+made it much more interesting or usable
+right the New York Times publish is a
+perfectly good website but they have an
+app on there that takes that website and
+formats it specifically for the iPad so
+I'm using that right
+so I think that users will prod it along
+but I don't know what the thing is that
+they're going to latch onto have you
+tried Flipboard by the way yeah I mean
+what do you think I think it's great
+it's awesome man I mean it's the same
+information that we're used to seeing
+every day is just displayed differently
+and people are like no I never knew have
+that information well the thing that
+they did that's smart is they go one
+level down on the links yeah right
+because half those links that you see in
+a Twitter stream you'd probably never
+click on but all of a sudden you're
+reading the article or the summary of
+the article you go oh that's pretty
+interesting
