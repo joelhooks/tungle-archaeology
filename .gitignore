@@ -1,0 +1,6 @@
+.DS_Store
+.env
+*.mp4
+*.webm
+*.mkv
+frames/
